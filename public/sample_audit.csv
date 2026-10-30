@@ -1,0 +1,501 @@
+audit_id,date,store_id,store_name,store_format,city,region,auditor_name,brand,product_name,sku_code,variant,size_ml,shelf_facings,total_shelf_facings,share_of_shelf_pct,shelf_level,shelf_position,in_stock,out_of_stock_duration_days,shelf_price,promo_price,on_promotion,display_type,planogram_compliant,competitor_brand
+AUD00001,2026-09-07,S006,Local Kirana 12,Kirana,Patna,East,Anita Rao,Beta Juice,Beta Juice Orange 200ml,SKU2408,Orange,200,8,24,33.3,Bottom,7,Yes,0,104.59,79.9,Yes,Shelf,No,Zeta Cola
+AUD00002,2026-03-10,S002,Reliance Fresh,Supermarket,Delhi,North,Rohit Kumar,Beta Juice,Beta Juice Apple 200ml,SKU3363,Apple,200,0,56,0,Eye,5,No,9,69.17,,No,End-cap,Yes,Omega Juice
+AUD00003,2026-06-15,S006,Local Kirana 12,Kirana,Patna,East,Rohit Kumar,Alpha Cola,Alpha Cola Lime 250ml,SKU6924,Lime,250,3,56,5.4,Middle,4,Yes,0,136.62,,No,End-cap,Yes,Zeta Cola
+AUD00004,2026-06-05,S005,Spencer's,Supermarket,Bengaluru,South,Rohit Kumar,Delta Energy,Delta Energy Sugar-free 500ml,SKU7909,Sugar-free,500,11,38,28.9,Eye,2,Yes,0,43.93,,No,Floor stack,No,Sigma Water
+AUD00005,2026-05-21,S008,Easyday,Convenience,Lucknow,North,Rohit Kumar,Delta Energy,Delta Energy Classic 250ml,SKU5662,Classic,250,9,37,24.3,Bottom,6,Yes,0,30.92,,No,Shelf,No,Sigma Water
+AUD00006,2026-08-03,S003,D-Mart,Hypermarket,Mumbai,West,Vikram Singh,Alpha Cola,Alpha Cola Zero 250ml,SKU8359,Zero,250,0,33,0,Bottom,5,No,3,75.67,,No,Chiller,No,Kappa Energy
+AUD00007,2026-10-06,S006,Local Kirana 12,Kirana,Patna,East,Meera Das,Delta Energy,Delta Energy Classic 250ml,SKU5619,Classic,250,3,25,12.0,Eye,3,Yes,0,176.34,147.03,Yes,Floor stack,No,Omega Juice
+AUD00008,2026-02-07,S001,Big Bazaar,Hypermarket,Patna,East,Rohit Kumar,Delta Energy,Delta Energy Sugar-free 500ml,SKU3659,Sugar-free,500,0,45,0,Eye,6,No,10,170.4,129.59,Yes,Shelf,Yes,Zeta Cola
+AUD00009,2026-06-16,S006,Local Kirana 12,Kirana,Patna,East,Anita Rao,Alpha Cola,Alpha Cola Original 500ml,SKU2889,Original,500,0,59,0,Bottom,8,No,8,76.8,,No,Chiller,No,Zeta Cola
+AUD00010,2026-09-12,S003,D-Mart,Hypermarket,Mumbai,West,Vikram Singh,Alpha Cola,Alpha Cola Lime 1000ml,SKU9899,Lime,1000,9,36,25.0,Eye,5,Yes,0,54.55,51.59,Yes,Shelf,No,Sigma Water
+AUD00011,2026-04-26,S003,D-Mart,Hypermarket,Mumbai,West,Vikram Singh,Gamma Water,Gamma Water Still 2000ml,SKU7564,Still,2000,18,54,33.3,Top,4,Yes,0,69.65,,No,Chiller,No,Zeta Cola
+AUD00012,2026-06-03,S001,Big Bazaar,Hypermarket,Patna,East,Vikram Singh,Gamma Water,Gamma Water Sparkling 1000ml,SKU2673,Sparkling,1000,7,32,21.9,Top,8,Yes,0,244.57,,No,End-cap,No,Omega Juice
+AUD00013,2026-04-16,S008,Easyday,Convenience,Lucknow,North,Vikram Singh,Alpha Cola,Alpha Cola Zero 1000ml,SKU8109,Zero,1000,8,25,32.0,Middle,2,Yes,0,237.9,,No,Chiller,No,Kappa Energy
+AUD00014,2026-10-27,S002,Reliance Fresh,Supermarket,Delhi,North,Rohit Kumar,Beta Juice,Beta Juice Mango 200ml,SKU6741,Mango,200,3,21,14.3,Top,3,Yes,0,129.01,,No,Shelf,Yes,Zeta Cola
+AUD00015,2026-06-09,S003,D-Mart,Hypermarket,Mumbai,West,Rohit Kumar,Delta Energy,Delta Energy Classic 250ml,SKU3147,Classic,250,4,21,19.0,Eye,6,Yes,0,137.78,,No,Chiller,No,Omega Juice
+AUD00016,2026-10-24,S003,D-Mart,Hypermarket,Mumbai,West,Anita Rao,Alpha Cola,Alpha Cola Zero 500ml,SKU2011,Zero,500,2,58,3.4,Middle,8,Yes,0,51.7,46.88,Yes,Shelf,Yes,Omega Juice
+AUD00017,2026-08-11,S004,More,Supermarket,Kolkata,East,Vikram Singh,Gamma Water,Gamma Water Still 500ml,SKU5541,Still,500,16,52,30.8,Bottom,8,Yes,0,201.2,,No,End-cap,No,Omega Juice
+AUD00018,2026-04-22,S008,Easyday,Convenience,Lucknow,North,Meera Das,Beta Juice,Beta Juice Orange 200ml,SKU3004,Orange,200,9,45,20.0,Top,6,Yes,0,179.43,,No,End-cap,No,Omega Juice
+AUD00019,2026-07-17,S008,Easyday,Convenience,Lucknow,North,Rohit Kumar,Beta Juice,Beta Juice Apple 200ml,SKU6556,Apple,200,9,45,20.0,Bottom,4,Yes,0,178.62,146.7,Yes,Shelf,No,Zeta Cola
+AUD00020,2026-02-26,S006,Local Kirana 12,Kirana,Patna,East,Vikram Singh,Delta Energy,Delta Energy Sugar-free 250ml,SKU2716,Sugar-free,250,7,44,15.9,Eye,5,Yes,0,87.39,,No,Floor stack,Yes,Omega Juice
+AUD00021,2026-06-03,S005,Spencer's,Supermarket,Bengaluru,South,Meera Das,Beta Juice,Beta Juice Orange 1000ml,SKU1942,Orange,1000,4,45,8.9,Top,7,Yes,0,141.12,,No,Shelf,No,Zeta Cola
+AUD00022,2026-09-14,S002,Reliance Fresh,Supermarket,Delhi,North,Meera Das,Gamma Water,Gamma Water Still 2000ml,SKU3117,Still,2000,3,34,8.8,Eye,4,Yes,0,44.81,42.01,Yes,End-cap,No,Zeta Cola
+AUD00023,2026-06-26,S003,D-Mart,Hypermarket,Mumbai,West,Anita Rao,Beta Juice,Beta Juice Orange 1000ml,SKU5103,Orange,1000,8,53,15.1,Eye,1,Yes,0,137.52,103.65,Yes,End-cap,No,Omega Juice
+AUD00024,2026-04-11,S008,Easyday,Convenience,Lucknow,North,Vikram Singh,Alpha Cola,Alpha Cola Lime 2000ml,SKU3289,Lime,2000,14,51,27.5,Bottom,6,Yes,0,90.41,85.56,Yes,End-cap,Yes,Zeta Cola
+AUD00025,2026-05-20,S005,Spencer's,Supermarket,Bengaluru,South,Vikram Singh,Delta Energy,Delta Energy Classic 250ml,SKU5801,Classic,250,7,25,28.0,Eye,8,Yes,0,228.28,,No,End-cap,Yes,Sigma Water
+AUD00026,2026-04-12,S008,Easyday,Convenience,Lucknow,North,Vikram Singh,Alpha Cola,Alpha Cola Zero 1000ml,SKU1017,Zero,1000,10,41,24.4,Middle,7,Yes,0,23.44,,No,Shelf,No,Sigma Water
+AUD00027,2026-07-01,S004,More,Supermarket,Kolkata,East,Meera Das,Beta Juice,Beta Juice Apple 200ml,SKU5984,Apple,200,4,25,16.0,Top,2,Yes,0,50.25,,No,End-cap,No,Sigma Water
+AUD00028,2026-09-05,S008,Easyday,Convenience,Lucknow,North,Anita Rao,Beta Juice,Beta Juice Orange 200ml,SKU4767,Orange,200,7,22,31.8,Eye,1,Yes,0,168.7,,No,Shelf,Yes,Sigma Water
+AUD00029,2026-01-15,S002,Reliance Fresh,Supermarket,Delhi,North,Anita Rao,Delta Energy,Delta Energy Sugar-free 250ml,SKU9240,Sugar-free,250,2,60,3.3,Eye,2,Yes,0,181.76,,No,Chiller,No,Zeta Cola
+AUD00030,2026-05-25,S005,Spencer's,Supermarket,Bengaluru,South,Anita Rao,Beta Juice,Beta Juice Apple 200ml,SKU4248,Apple,200,9,34,26.5,Eye,3,Yes,0,108.73,,No,Floor stack,No,Sigma Water
+AUD00031,2026-08-10,S003,D-Mart,Hypermarket,Mumbai,West,Meera Das,Alpha Cola,Alpha Cola Zero 250ml,SKU8613,Zero,250,10,51,19.6,Bottom,8,Yes,0,39.38,35.58,Yes,End-cap,No,Zeta Cola
+AUD00032,2026-07-07,S008,Easyday,Convenience,Lucknow,North,Vikram Singh,Alpha Cola,Alpha Cola Zero 2000ml,SKU2222,Zero,2000,8,24,33.3,Eye,3,Yes,0,258.68,,No,Floor stack,No,Omega Juice
+AUD00033,2026-01-16,S005,Spencer's,Supermarket,Bengaluru,South,Rohit Kumar,Alpha Cola,Alpha Cola Lime 1000ml,SKU7642,Lime,1000,9,34,26.5,Middle,3,Yes,0,134.1,111.74,Yes,Chiller,No,Zeta Cola
+AUD00034,2026-05-09,S006,Local Kirana 12,Kirana,Patna,East,Meera Das,Alpha Cola,Alpha Cola Zero 1000ml,SKU2064,Zero,1000,3,45,6.7,Bottom,7,Yes,0,62.96,59.8,Yes,Shelf,No,Kappa Energy
+AUD00035,2026-05-14,S005,Spencer's,Supermarket,Bengaluru,South,Meera Das,Alpha Cola,Alpha Cola Zero 250ml,SKU4110,Zero,250,7,23,30.4,Middle,7,Yes,0,244.22,226.36,Yes,Chiller,Yes,Zeta Cola
+AUD00036,2026-08-14,S001,Big Bazaar,Hypermarket,Patna,East,Meera Das,Delta Energy,Delta Energy Sugar-free 250ml,SKU5616,Sugar-free,250,0,38,0,Middle,5,No,12,242.06,217.31,Yes,Floor stack,No,Omega Juice
+AUD00037,2026-09-08,S005,Spencer's,Supermarket,Bengaluru,South,Rohit Kumar,Delta Energy,Delta Energy Sugar-free 250ml,SKU6453,Sugar-free,250,0,30,0,Bottom,7,No,3,137.65,,No,End-cap,Yes,Zeta Cola
+AUD00038,2026-07-13,S003,D-Mart,Hypermarket,Mumbai,West,Rohit Kumar,Gamma Water,Gamma Water Still 1000ml,SKU9587,Still,1000,7,35,20.0,Top,7,Yes,0,154.56,,No,Floor stack,No,Zeta Cola
+AUD00039,2026-08-14,S008,Easyday,Convenience,Lucknow,North,Meera Das,Gamma Water,Gamma Water Sparkling 500ml,SKU1357,Sparkling,500,0,52,0,Top,1,No,7,234.71,,No,Chiller,No,Zeta Cola
+AUD00040,2026-02-27,S002,Reliance Fresh,Supermarket,Delhi,North,Rohit Kumar,Delta Energy,Delta Energy Sugar-free 500ml,SKU2392,Sugar-free,500,3,35,8.6,Eye,1,Yes,0,52.26,,No,End-cap,Yes,Zeta Cola
+AUD00041,2026-09-19,S005,Spencer's,Supermarket,Bengaluru,South,Vikram Singh,Beta Juice,Beta Juice Apple 1000ml,SKU7358,Apple,1000,15,53,28.3,Middle,4,Yes,0,42.47,38.57,Yes,Shelf,Yes,Sigma Water
+AUD00042,2026-07-23,S008,Easyday,Convenience,Lucknow,North,Meera Das,Gamma Water,Gamma Water Sparkling 2000ml,SKU1906,Sparkling,2000,9,35,25.7,Eye,4,Yes,0,149.02,126.62,Yes,Chiller,Yes,Sigma Water
+AUD00043,2026-07-07,S004,More,Supermarket,Kolkata,East,Anita Rao,Delta Energy,Delta Energy Sugar-free 250ml,SKU5785,Sugar-free,250,3,51,5.9,Eye,4,Yes,0,190.99,,No,Chiller,Yes,Sigma Water
+AUD00044,2026-04-16,S004,More,Supermarket,Kolkata,East,Rohit Kumar,Beta Juice,Beta Juice Orange 200ml,SKU1924,Orange,200,0,36,0,Top,7,No,1,167.78,,No,End-cap,Yes,Omega Juice
+AUD00045,2026-02-03,S007,Star Bazaar,Hypermarket,Chennai,South,Vikram Singh,Alpha Cola,Alpha Cola Lime 250ml,SKU6394,Lime,250,8,31,25.8,Top,3,Yes,0,189.45,,No,Chiller,Yes,Sigma Water
+AUD00046,2026-02-18,S007,Star Bazaar,Hypermarket,Chennai,South,Vikram Singh,Gamma Water,Gamma Water Sparkling 1000ml,SKU7228,Sparkling,1000,0,30,0,Middle,5,No,14,83.55,,No,Chiller,Yes,Zeta Cola
+AUD00047,2026-07-08,S008,Easyday,Convenience,Lucknow,North,Rohit Kumar,Beta Juice,Beta Juice Orange 1000ml,SKU1666,Orange,1000,7,32,21.9,Bottom,1,Yes,0,234.76,197.86,Yes,Shelf,No,Omega Juice
+AUD00048,2026-05-10,S002,Reliance Fresh,Supermarket,Delhi,North,Anita Rao,Gamma Water,Gamma Water Sparkling 1000ml,SKU2070,Sparkling,1000,0,41,0,Eye,4,No,2,197.88,,No,Chiller,No,Kappa Energy
+AUD00049,2026-03-20,S005,Spencer's,Supermarket,Bengaluru,South,Vikram Singh,Delta Energy,Delta Energy Sugar-free 250ml,SKU6370,Sugar-free,250,0,51,0,Middle,8,No,6,243.11,,No,Shelf,Yes,Kappa Energy
+AUD00050,2026-02-03,S003,D-Mart,Hypermarket,Mumbai,West,Meera Das,Beta Juice,Beta Juice Orange 200ml,SKU2377,Orange,200,5,22,22.7,Top,2,Yes,0,94.81,,No,Chiller,No,Kappa Energy
+AUD00051,2026-02-25,S003,D-Mart,Hypermarket,Mumbai,West,Meera Das,Beta Juice,Beta Juice Mango 1000ml,SKU5813,Mango,1000,11,49,22.4,Middle,5,Yes,0,72.56,,No,Floor stack,No,Sigma Water
+AUD00052,2026-06-03,S004,More,Supermarket,Kolkata,East,Rohit Kumar,Delta Energy,Delta Energy Classic 250ml,SKU5123,Classic,250,5,35,14.3,Top,4,Yes,0,231.62,,No,Shelf,No,Zeta Cola
+AUD00053,2026-01-07,S002,Reliance Fresh,Supermarket,Delhi,North,Vikram Singh,Alpha Cola,Alpha Cola Zero 500ml,SKU2230,Zero,500,16,48,33.3,Middle,3,Yes,0,229.84,193.02,Yes,Floor stack,Yes,Zeta Cola
+AUD00054,2026-04-27,S006,Local Kirana 12,Kirana,Patna,East,Anita Rao,Beta Juice,Beta Juice Mango 1000ml,SKU6361,Mango,1000,0,41,0,Bottom,6,No,3,259.97,227.27,Yes,Shelf,Yes,Zeta Cola
+AUD00055,2026-02-21,S008,Easyday,Convenience,Lucknow,North,Vikram Singh,Delta Energy,Delta Energy Classic 500ml,SKU7517,Classic,500,8,26,30.8,Middle,7,Yes,0,149.78,,No,Floor stack,No,Kappa Energy
+AUD00056,2026-04-13,S001,Big Bazaar,Hypermarket,Patna,East,Rohit Kumar,Gamma Water,Gamma Water Sparkling 1000ml,SKU4336,Sparkling,1000,2,46,4.3,Eye,7,Yes,0,259.17,,No,End-cap,No,Zeta Cola
+AUD00057,2026-07-03,S002,Reliance Fresh,Supermarket,Delhi,North,Meera Das,Delta Energy,Delta Energy Sugar-free 500ml,SKU9265,Sugar-free,500,0,30,0,Top,3,No,6,150.13,,No,Floor stack,Yes,Omega Juice
+AUD00058,2026-08-11,S002,Reliance Fresh,Supermarket,Delhi,North,Anita Rao,Alpha Cola,Alpha Cola Zero 2000ml,SKU7355,Zero,2000,0,32,0,Eye,3,No,11,246.05,,No,End-cap,No,Omega Juice
+AUD00059,2026-03-08,S008,Easyday,Convenience,Lucknow,North,Vikram Singh,Beta Juice,Beta Juice Apple 200ml,SKU1673,Apple,200,5,22,22.7,Eye,6,Yes,0,53.34,,No,Shelf,No,Kappa Energy
+AUD00060,2026-01-01,S005,Spencer's,Supermarket,Bengaluru,South,Rohit Kumar,Delta Energy,Delta Energy Sugar-free 250ml,SKU8623,Sugar-free,250,8,47,17.0,Top,8,Yes,0,124.46,,No,Chiller,Yes,Kappa Energy
+AUD00061,2026-01-02,S007,Star Bazaar,Hypermarket,Chennai,South,Vikram Singh,Alpha Cola,Alpha Cola Original 500ml,SKU2347,Original,500,8,42,19.0,Middle,2,Yes,0,211.56,,No,Shelf,No,Omega Juice
+AUD00062,2026-03-22,S001,Big Bazaar,Hypermarket,Patna,East,Vikram Singh,Alpha Cola,Alpha Cola Lime 250ml,SKU2073,Lime,250,4,32,12.5,Middle,5,Yes,0,135.51,,No,End-cap,No,Sigma Water
+AUD00063,2026-01-07,S008,Easyday,Convenience,Lucknow,North,Vikram Singh,Beta Juice,Beta Juice Orange 1000ml,SKU7610,Orange,1000,11,33,33.3,Top,5,Yes,0,138.97,,No,Floor stack,No,Omega Juice
+AUD00064,2026-02-09,S005,Spencer's,Supermarket,Bengaluru,South,Rohit Kumar,Alpha Cola,Alpha Cola Lime 250ml,SKU7086,Lime,250,13,60,21.7,Middle,7,Yes,0,125.99,,No,Floor stack,Yes,Sigma Water
+AUD00065,2026-10-22,S006,Local Kirana 12,Kirana,Patna,East,Meera Das,Alpha Cola,Alpha Cola Zero 500ml,SKU1029,Zero,500,2,31,6.5,Eye,4,Yes,0,141.45,,No,End-cap,No,Kappa Energy
+AUD00066,2026-10-12,S007,Star Bazaar,Hypermarket,Chennai,South,Meera Das,Gamma Water,Gamma Water Still 500ml,SKU2742,Still,500,9,51,17.6,Middle,4,Yes,0,26.17,21.79,Yes,Floor stack,Yes,Omega Juice
+AUD00067,2026-03-28,S006,Local Kirana 12,Kirana,Patna,East,Meera Das,Delta Energy,Delta Energy Classic 250ml,SKU7585,Classic,250,3,20,15.0,Middle,1,Yes,0,125.46,95.5,Yes,Floor stack,No,Kappa Energy
+AUD00068,2026-02-01,S004,More,Supermarket,Kolkata,East,Vikram Singh,Beta Juice,Beta Juice Mango 200ml,SKU3330,Mango,200,0,23,0,Bottom,4,No,9,60.49,52.72,Yes,Chiller,Yes,Sigma Water
+AUD00069,2026-08-03,S002,Reliance Fresh,Supermarket,Delhi,North,Rohit Kumar,Gamma Water,Gamma Water Still 2000ml,SKU3873,Still,2000,13,50,26.0,Top,2,Yes,0,106.91,,No,Floor stack,Yes,Zeta Cola
+AUD00070,2026-09-09,S002,Reliance Fresh,Supermarket,Delhi,North,Meera Das,Gamma Water,Gamma Water Sparkling 2000ml,SKU4555,Sparkling,2000,4,23,17.4,Eye,1,Yes,0,181.41,,No,End-cap,No,Omega Juice
+AUD00071,2026-09-16,S004,More,Supermarket,Kolkata,East,Rohit Kumar,Beta Juice,Beta Juice Apple 1000ml,SKU9693,Apple,1000,8,32,25.0,Eye,1,Yes,0,73.6,,No,Chiller,Yes,Sigma Water
+AUD00072,2026-06-05,S004,More,Supermarket,Kolkata,East,Anita Rao,Delta Energy,Delta Energy Classic 250ml,SKU1505,Classic,250,0,29,0,Eye,3,No,12,41.14,,No,Shelf,Yes,Zeta Cola
+AUD00073,2026-04-07,S002,Reliance Fresh,Supermarket,Delhi,North,Vikram Singh,Gamma Water,Gamma Water Still 2000ml,SKU2834,Still,2000,8,24,33.3,Eye,1,Yes,0,189.26,,No,Shelf,No,Kappa Energy
+AUD00074,2026-05-02,S002,Reliance Fresh,Supermarket,Delhi,North,Meera Das,Beta Juice,Beta Juice Mango 200ml,SKU6256,Mango,200,7,38,18.4,Bottom,5,Yes,0,78.98,,No,Shelf,No,Zeta Cola
+AUD00075,2026-10-27,S007,Star Bazaar,Hypermarket,Chennai,South,Meera Das,Alpha Cola,Alpha Cola Zero 2000ml,SKU3791,Zero,2000,6,23,26.1,Bottom,1,Yes,0,190.03,,No,End-cap,No,Zeta Cola
+AUD00076,2026-09-09,S001,Big Bazaar,Hypermarket,Patna,East,Vikram Singh,Gamma Water,Gamma Water Sparkling 500ml,SKU5648,Sparkling,500,7,51,13.7,Top,4,Yes,0,160.18,,No,Chiller,Yes,Zeta Cola
+AUD00077,2026-02-14,S002,Reliance Fresh,Supermarket,Delhi,North,Anita Rao,Delta Energy,Delta Energy Classic 500ml,SKU7094,Classic,500,3,42,7.1,Top,5,Yes,0,111.68,,No,Floor stack,No,Omega Juice
+AUD00078,2026-08-22,S007,Star Bazaar,Hypermarket,Chennai,South,Meera Das,Beta Juice,Beta Juice Orange 200ml,SKU3777,Orange,200,3,54,5.6,Bottom,8,Yes,0,95.03,84.37,Yes,Floor stack,Yes,Omega Juice
+AUD00079,2026-03-08,S006,Local Kirana 12,Kirana,Patna,East,Meera Das,Delta Energy,Delta Energy Classic 250ml,SKU9555,Classic,250,6,37,16.2,Middle,3,Yes,0,217.5,,No,End-cap,No,Omega Juice
+AUD00080,2026-05-14,S005,Spencer's,Supermarket,Bengaluru,South,Meera Das,Alpha Cola,Alpha Cola Original 250ml,SKU4214,Original,250,8,32,25.0,Eye,2,Yes,0,51.34,,No,Floor stack,Yes,Kappa Energy
+AUD00081,2026-01-05,S008,Easyday,Convenience,Lucknow,North,Meera Das,Alpha Cola,Alpha Cola Original 2000ml,SKU7630,Original,2000,13,47,27.7,Eye,4,Yes,0,255.32,237.86,Yes,Chiller,No,Omega Juice
+AUD00082,2026-07-08,S004,More,Supermarket,Kolkata,East,Rohit Kumar,Beta Juice,Beta Juice Apple 200ml,SKU3563,Apple,200,8,49,16.3,Middle,7,Yes,0,168.93,143.01,Yes,Shelf,No,Omega Juice
+AUD00083,2026-04-17,S006,Local Kirana 12,Kirana,Patna,East,Meera Das,Alpha Cola,Alpha Cola Zero 2000ml,SKU2656,Zero,2000,2,26,7.7,Bottom,4,Yes,0,68.38,,No,Chiller,Yes,Sigma Water
+AUD00084,2026-10-12,S006,Local Kirana 12,Kirana,Patna,East,Anita Rao,Delta Energy,Delta Energy Sugar-free 250ml,SKU5136,Sugar-free,250,8,31,25.8,Middle,7,Yes,0,243.51,,No,Chiller,Yes,Zeta Cola
+AUD00085,2026-09-08,S002,Reliance Fresh,Supermarket,Delhi,North,Rohit Kumar,Delta Energy,Delta Energy Sugar-free 500ml,SKU8571,Sugar-free,500,0,57,0,Top,3,No,3,89.36,,No,Shelf,Yes,Kappa Energy
+AUD00086,2026-08-12,S004,More,Supermarket,Kolkata,East,Vikram Singh,Beta Juice,Beta Juice Orange 1000ml,SKU5381,Orange,1000,6,49,12.2,Bottom,5,Yes,0,174.15,,No,Chiller,Yes,Kappa Energy
+AUD00087,2026-06-05,S001,Big Bazaar,Hypermarket,Patna,East,Meera Das,Gamma Water,Gamma Water Sparkling 500ml,SKU7309,Sparkling,500,7,39,17.9,Eye,2,Yes,0,119.98,,No,Floor stack,Yes,Sigma Water
+AUD00088,2026-03-25,S001,Big Bazaar,Hypermarket,Patna,East,Rohit Kumar,Alpha Cola,Alpha Cola Original 250ml,SKU6676,Original,250,6,38,15.8,Top,4,Yes,0,156.73,,No,Chiller,Yes,Zeta Cola
+AUD00089,2026-09-04,S005,Spencer's,Supermarket,Bengaluru,South,Meera Das,Beta Juice,Beta Juice Orange 200ml,SKU7865,Orange,200,4,53,7.5,Top,3,Yes,0,122.45,,No,Chiller,No,Zeta Cola
+AUD00090,2026-03-27,S008,Easyday,Convenience,Lucknow,North,Meera Das,Delta Energy,Delta Energy Classic 500ml,SKU8667,Classic,500,9,35,25.7,Bottom,5,Yes,0,161.9,,No,Chiller,No,Kappa Energy
+AUD00091,2026-06-26,S007,Star Bazaar,Hypermarket,Chennai,South,Anita Rao,Alpha Cola,Alpha Cola Original 1000ml,SKU9366,Original,1000,0,60,0,Bottom,8,No,13,26.24,,No,End-cap,Yes,Omega Juice
+AUD00092,2026-04-10,S007,Star Bazaar,Hypermarket,Chennai,South,Rohit Kumar,Beta Juice,Beta Juice Orange 200ml,SKU6602,Orange,200,7,43,16.3,Bottom,5,Yes,0,143.76,,No,Shelf,No,Sigma Water
+AUD00093,2026-08-26,S006,Local Kirana 12,Kirana,Patna,East,Anita Rao,Delta Energy,Delta Energy Sugar-free 500ml,SKU6421,Sugar-free,500,10,52,19.2,Top,6,Yes,0,99.48,88.8,Yes,End-cap,Yes,Zeta Cola
+AUD00094,2026-10-25,S007,Star Bazaar,Hypermarket,Chennai,South,Anita Rao,Delta Energy,Delta Energy Classic 500ml,SKU9205,Classic,500,0,39,0,Bottom,3,No,11,61.54,,No,Shelf,Yes,Zeta Cola
+AUD00095,2026-06-28,S008,Easyday,Convenience,Lucknow,North,Vikram Singh,Beta Juice,Beta Juice Mango 200ml,SKU6068,Mango,200,5,22,22.7,Middle,5,Yes,0,238.95,,No,End-cap,No,Zeta Cola
+AUD00096,2026-07-15,S006,Local Kirana 12,Kirana,Patna,East,Anita Rao,Alpha Cola,Alpha Cola Zero 250ml,SKU1231,Zero,250,3,51,5.9,Bottom,3,Yes,0,204.58,,No,Chiller,No,Zeta Cola
+AUD00097,2026-02-07,S002,Reliance Fresh,Supermarket,Delhi,North,Anita Rao,Delta Energy,Delta Energy Classic 250ml,SKU3113,Classic,250,2,60,3.3,Bottom,1,Yes,0,17.29,,No,Floor stack,Yes,Kappa Energy
+AUD00098,2026-05-02,S003,D-Mart,Hypermarket,Mumbai,West,Anita Rao,Alpha Cola,Alpha Cola Zero 500ml,SKU1186,Zero,500,4,25,16.0,Eye,1,Yes,0,188.76,,No,Shelf,No,Sigma Water
+AUD00099,2026-03-05,S005,Spencer's,Supermarket,Bengaluru,South,Anita Rao,Beta Juice,Beta Juice Orange 200ml,SKU6951,Orange,200,7,40,17.5,Top,7,Yes,0,193.3,,No,Chiller,No,Kappa Energy
+AUD00100,2026-06-28,S005,Spencer's,Supermarket,Bengaluru,South,Anita Rao,Gamma Water,Gamma Water Sparkling 1000ml,SKU3475,Sparkling,1000,6,23,26.1,Middle,7,Yes,0,187.3,,No,End-cap,No,Kappa Energy
+AUD00101,2026-01-10,S007,Star Bazaar,Hypermarket,Chennai,South,Vikram Singh,Beta Juice,Beta Juice Orange 1000ml,SKU3408,Orange,1000,4,20,20.0,Middle,8,Yes,0,118.51,,No,Floor stack,Yes,Kappa Energy
+AUD00102,2026-05-19,S007,Star Bazaar,Hypermarket,Chennai,South,Anita Rao,Beta Juice,Beta Juice Apple 200ml,SKU7307,Apple,200,0,39,0,Bottom,2,No,9,111.9,,No,Floor stack,Yes,Omega Juice
+AUD00103,2026-05-12,S007,Star Bazaar,Hypermarket,Chennai,South,Meera Das,Gamma Water,Gamma Water Sparkling 1000ml,SKU7594,Sparkling,1000,8,52,15.4,Top,4,Yes,0,62.12,47.14,Yes,Chiller,No,Zeta Cola
+AUD00104,2026-02-02,S006,Local Kirana 12,Kirana,Patna,East,Vikram Singh,Delta Energy,Delta Energy Classic 250ml,SKU8967,Classic,250,0,40,0,Top,5,No,13,83.73,,No,Floor stack,No,Zeta Cola
+AUD00105,2026-01-18,S008,Easyday,Convenience,Lucknow,North,Meera Das,Beta Juice,Beta Juice Orange 200ml,SKU8508,Orange,200,5,41,12.2,Bottom,2,Yes,0,107.66,99.33,Yes,Chiller,Yes,Zeta Cola
+AUD00106,2026-06-08,S005,Spencer's,Supermarket,Bengaluru,South,Vikram Singh,Gamma Water,Gamma Water Still 2000ml,SKU3820,Still,2000,7,25,28.0,Eye,5,Yes,0,59.75,,No,Floor stack,Yes,Zeta Cola
+AUD00107,2026-05-19,S001,Big Bazaar,Hypermarket,Patna,East,Rohit Kumar,Gamma Water,Gamma Water Sparkling 500ml,SKU2727,Sparkling,500,3,26,11.5,Bottom,6,Yes,0,16.42,13.54,Yes,Chiller,Yes,Sigma Water
+AUD00108,2026-04-26,S008,Easyday,Convenience,Lucknow,North,Anita Rao,Delta Energy,Delta Energy Classic 500ml,SKU3571,Classic,500,4,35,11.4,Top,2,Yes,0,233.58,,No,Floor stack,Yes,Kappa Energy
+AUD00109,2026-06-05,S002,Reliance Fresh,Supermarket,Delhi,North,Meera Das,Delta Energy,Delta Energy Classic 250ml,SKU4631,Classic,250,7,48,14.6,Eye,3,Yes,0,72.3,64.55,Yes,End-cap,No,Omega Juice
+AUD00110,2026-03-09,S005,Spencer's,Supermarket,Bengaluru,South,Rohit Kumar,Delta Energy,Delta Energy Sugar-free 250ml,SKU2789,Sugar-free,250,2,29,6.9,Middle,8,Yes,0,220.69,,No,Chiller,Yes,Omega Juice
+AUD00111,2026-05-08,S001,Big Bazaar,Hypermarket,Patna,East,Vikram Singh,Beta Juice,Beta Juice Apple 1000ml,SKU2598,Apple,1000,3,38,7.9,Bottom,5,Yes,0,64.4,,No,Chiller,Yes,Zeta Cola
+AUD00112,2026-09-10,S005,Spencer's,Supermarket,Bengaluru,South,Vikram Singh,Beta Juice,Beta Juice Apple 200ml,SKU6899,Apple,200,14,48,29.2,Bottom,1,Yes,0,140.14,,No,Chiller,Yes,Sigma Water
+AUD00113,2026-08-25,S003,D-Mart,Hypermarket,Mumbai,West,Meera Das,Beta Juice,Beta Juice Mango 200ml,SKU3872,Mango,200,5,31,16.1,Top,3,Yes,0,218.1,,No,End-cap,No,Omega Juice
+AUD00114,2026-08-03,S001,Big Bazaar,Hypermarket,Patna,East,Anita Rao,Alpha Cola,Alpha Cola Lime 2000ml,SKU7709,Lime,2000,6,23,26.1,Bottom,3,Yes,0,97.13,,No,Floor stack,Yes,Omega Juice
+AUD00115,2026-02-04,S006,Local Kirana 12,Kirana,Patna,East,Meera Das,Alpha Cola,Alpha Cola Original 1000ml,SKU5009,Original,1000,2,56,3.6,Middle,7,Yes,0,243.37,,No,Shelf,No,Zeta Cola
+AUD00116,2026-02-10,S008,Easyday,Convenience,Lucknow,North,Meera Das,Delta Energy,Delta Energy Classic 250ml,SKU1492,Classic,250,3,21,14.3,Eye,2,Yes,0,69.81,65.29,Yes,End-cap,No,Zeta Cola
+AUD00117,2026-02-15,S008,Easyday,Convenience,Lucknow,North,Rohit Kumar,Beta Juice,Beta Juice Apple 1000ml,SKU9204,Apple,1000,4,26,15.4,Middle,2,Yes,0,190.69,147.67,Yes,Chiller,Yes,Omega Juice
+AUD00118,2026-07-20,S004,More,Supermarket,Kolkata,East,Anita Rao,Beta Juice,Beta Juice Apple 1000ml,SKU7482,Apple,1000,4,45,8.9,Eye,6,Yes,0,19.53,,No,Floor stack,No,Omega Juice
+AUD00119,2026-06-08,S006,Local Kirana 12,Kirana,Patna,East,Rohit Kumar,Delta Energy,Delta Energy Sugar-free 500ml,SKU1189,Sugar-free,500,3,55,5.5,Middle,2,Yes,0,50.92,,No,End-cap,Yes,Sigma Water
+AUD00120,2026-08-21,S007,Star Bazaar,Hypermarket,Chennai,South,Anita Rao,Beta Juice,Beta Juice Apple 200ml,SKU1659,Apple,200,4,34,11.8,Eye,5,Yes,0,112.28,,No,Floor stack,Yes,Zeta Cola
+AUD00121,2026-03-04,S005,Spencer's,Supermarket,Bengaluru,South,Anita Rao,Alpha Cola,Alpha Cola Lime 250ml,SKU9417,Lime,250,5,47,10.6,Middle,2,Yes,0,85.44,,No,Chiller,Yes,Kappa Energy
+AUD00122,2026-05-27,S002,Reliance Fresh,Supermarket,Delhi,North,Rohit Kumar,Beta Juice,Beta Juice Orange 1000ml,SKU4630,Orange,1000,11,56,19.6,Bottom,4,Yes,0,195.3,,No,Floor stack,No,Sigma Water
+AUD00123,2026-10-13,S008,Easyday,Convenience,Lucknow,North,Anita Rao,Delta Energy,Delta Energy Sugar-free 250ml,SKU6777,Sugar-free,250,7,35,20.0,Top,4,Yes,0,140.55,,No,Floor stack,No,Kappa Energy
+AUD00124,2026-08-22,S005,Spencer's,Supermarket,Bengaluru,South,Anita Rao,Gamma Water,Gamma Water Still 1000ml,SKU9470,Still,1000,2,23,8.7,Bottom,8,Yes,0,31.37,,No,Floor stack,Yes,Omega Juice
+AUD00125,2026-09-04,S003,D-Mart,Hypermarket,Mumbai,West,Rohit Kumar,Delta Energy,Delta Energy Sugar-free 500ml,SKU5402,Sugar-free,500,5,28,17.9,Top,7,Yes,0,223.25,,No,Shelf,Yes,Kappa Energy
+AUD00126,2026-07-28,S002,Reliance Fresh,Supermarket,Delhi,North,Rohit Kumar,Delta Energy,Delta Energy Sugar-free 250ml,SKU8502,Sugar-free,250,15,46,32.6,Middle,6,Yes,0,228.83,,No,Floor stack,No,Kappa Energy
+AUD00127,2026-03-14,S007,Star Bazaar,Hypermarket,Chennai,South,Rohit Kumar,Gamma Water,Gamma Water Still 2000ml,SKU4800,Still,2000,14,51,27.5,Eye,6,Yes,0,60.13,,No,Floor stack,Yes,Sigma Water
+AUD00128,2026-05-18,S004,More,Supermarket,Kolkata,East,Rohit Kumar,Delta Energy,Delta Energy Classic 250ml,SKU9477,Classic,250,4,23,17.4,Bottom,7,Yes,0,136.85,,No,Chiller,No,Zeta Cola
+AUD00129,2026-09-19,S006,Local Kirana 12,Kirana,Patna,East,Vikram Singh,Delta Energy,Delta Energy Classic 250ml,SKU4083,Classic,250,0,53,0,Bottom,8,No,7,106.73,,No,Chiller,No,Zeta Cola
+AUD00130,2026-05-23,S003,D-Mart,Hypermarket,Mumbai,West,Meera Das,Gamma Water,Gamma Water Sparkling 1000ml,SKU9337,Sparkling,1000,8,24,33.3,Bottom,3,Yes,0,58.02,,No,Floor stack,Yes,Omega Juice
+AUD00131,2026-07-01,S007,Star Bazaar,Hypermarket,Chennai,South,Anita Rao,Beta Juice,Beta Juice Mango 200ml,SKU6025,Mango,200,11,42,26.2,Eye,5,Yes,0,170.95,141.81,Yes,Shelf,Yes,Zeta Cola
+AUD00132,2026-02-05,S004,More,Supermarket,Kolkata,East,Vikram Singh,Beta Juice,Beta Juice Orange 1000ml,SKU9493,Orange,1000,18,54,33.3,Eye,1,Yes,0,155.74,,No,Shelf,Yes,Omega Juice
+AUD00133,2026-03-02,S008,Easyday,Convenience,Lucknow,North,Meera Das,Delta Energy,Delta Energy Sugar-free 250ml,SKU2629,Sugar-free,250,6,20,30.0,Eye,6,Yes,0,190.29,,No,End-cap,No,Kappa Energy
+AUD00134,2026-01-06,S001,Big Bazaar,Hypermarket,Patna,East,Vikram Singh,Alpha Cola,Alpha Cola Original 2000ml,SKU6157,Original,2000,3,57,5.3,Eye,8,Yes,0,166.94,135.34,Yes,Floor stack,No,Zeta Cola
+AUD00135,2026-04-03,S004,More,Supermarket,Kolkata,East,Vikram Singh,Delta Energy,Delta Energy Classic 500ml,SKU3784,Classic,500,8,39,20.5,Middle,7,Yes,0,133.68,,No,End-cap,Yes,Sigma Water
+AUD00136,2026-07-27,S007,Star Bazaar,Hypermarket,Chennai,South,Meera Das,Gamma Water,Gamma Water Still 1000ml,SKU5013,Still,1000,14,54,25.9,Bottom,4,Yes,0,174.56,,No,Chiller,No,Sigma Water
+AUD00137,2026-04-09,S004,More,Supermarket,Kolkata,East,Vikram Singh,Delta Energy,Delta Energy Classic 500ml,SKU8263,Classic,500,4,21,19.0,Bottom,4,Yes,0,74.24,58.04,Yes,Floor stack,Yes,Kappa Energy
+AUD00138,2026-05-20,S007,Star Bazaar,Hypermarket,Chennai,South,Rohit Kumar,Beta Juice,Beta Juice Orange 1000ml,SKU7029,Orange,1000,8,52,15.4,Top,7,Yes,0,125.91,109.75,Yes,End-cap,Yes,Zeta Cola
+AUD00139,2026-03-25,S002,Reliance Fresh,Supermarket,Delhi,North,Vikram Singh,Gamma Water,Gamma Water Sparkling 500ml,SKU6259,Sparkling,500,6,56,10.7,Top,2,Yes,0,110.53,84.4,Yes,Floor stack,No,Omega Juice
+AUD00140,2026-08-25,S002,Reliance Fresh,Supermarket,Delhi,North,Vikram Singh,Gamma Water,Gamma Water Still 500ml,SKU5530,Still,500,4,38,10.5,Top,1,Yes,0,112.75,,No,Floor stack,No,Kappa Energy
+AUD00141,2026-10-24,S001,Big Bazaar,Hypermarket,Patna,East,Vikram Singh,Delta Energy,Delta Energy Classic 500ml,SKU1662,Classic,500,0,42,0,Bottom,1,No,10,86.41,67.61,Yes,End-cap,No,Omega Juice
+AUD00142,2026-09-09,S007,Star Bazaar,Hypermarket,Chennai,South,Rohit Kumar,Alpha Cola,Alpha Cola Lime 1000ml,SKU6718,Lime,1000,7,60,11.7,Eye,2,Yes,0,70.78,,No,Floor stack,Yes,Zeta Cola
+AUD00143,2026-07-24,S004,More,Supermarket,Kolkata,East,Vikram Singh,Alpha Cola,Alpha Cola Original 1000ml,SKU5606,Original,1000,7,33,21.2,Eye,6,Yes,0,36.1,,No,Chiller,No,Sigma Water
+AUD00144,2026-04-02,S008,Easyday,Convenience,Lucknow,North,Meera Das,Alpha Cola,Alpha Cola Lime 500ml,SKU3859,Lime,500,12,47,25.5,Top,4,Yes,0,242.39,208.16,Yes,End-cap,Yes,Omega Juice
+AUD00145,2026-08-08,S006,Local Kirana 12,Kirana,Patna,East,Vikram Singh,Gamma Water,Gamma Water Sparkling 500ml,SKU1096,Sparkling,500,0,32,0,Bottom,3,No,11,183.13,,No,Floor stack,No,Omega Juice
+AUD00146,2026-10-15,S003,D-Mart,Hypermarket,Mumbai,West,Rohit Kumar,Beta Juice,Beta Juice Orange 200ml,SKU4380,Orange,200,15,55,27.3,Eye,5,Yes,0,56.46,,No,Shelf,No,Kappa Energy
+AUD00147,2026-03-11,S004,More,Supermarket,Kolkata,East,Rohit Kumar,Alpha Cola,Alpha Cola Original 1000ml,SKU8678,Original,1000,0,39,0,Middle,5,No,3,90.68,,No,Shelf,Yes,Zeta Cola
+AUD00148,2026-04-26,S008,Easyday,Convenience,Lucknow,North,Meera Das,Delta Energy,Delta Energy Classic 500ml,SKU1136,Classic,500,0,56,0,Middle,2,No,11,134.77,,No,Floor stack,No,Omega Juice
+AUD00149,2026-09-28,S002,Reliance Fresh,Supermarket,Delhi,North,Vikram Singh,Beta Juice,Beta Juice Apple 200ml,SKU2674,Apple,200,5,21,23.8,Middle,6,Yes,0,87.6,72.35,Yes,Floor stack,No,Omega Juice
+AUD00150,2026-07-02,S006,Local Kirana 12,Kirana,Patna,East,Vikram Singh,Beta Juice,Beta Juice Apple 1000ml,SKU9099,Apple,1000,0,36,0,Bottom,8,No,12,41.27,,No,End-cap,No,Zeta Cola
+AUD00151,2026-08-16,S003,D-Mart,Hypermarket,Mumbai,West,Vikram Singh,Beta Juice,Beta Juice Mango 200ml,SKU4576,Mango,200,12,48,25.0,Middle,1,Yes,0,36.97,27.96,Yes,Chiller,Yes,Sigma Water
+AUD00152,2026-03-13,S002,Reliance Fresh,Supermarket,Delhi,North,Meera Das,Alpha Cola,Alpha Cola Lime 2000ml,SKU1068,Lime,2000,3,41,7.3,Bottom,6,Yes,0,178.2,,No,End-cap,No,Zeta Cola
+AUD00153,2026-06-20,S006,Local Kirana 12,Kirana,Patna,East,Meera Das,Delta Energy,Delta Energy Sugar-free 250ml,SKU7899,Sugar-free,250,11,45,24.4,Middle,8,Yes,0,213.73,188.36,Yes,End-cap,No,Sigma Water
+AUD00154,2026-07-12,S001,Big Bazaar,Hypermarket,Patna,East,Vikram Singh,Beta Juice,Beta Juice Mango 1000ml,SKU8231,Mango,1000,3,25,12.0,Bottom,5,Yes,0,106.14,,No,Shelf,Yes,Omega Juice
+AUD00155,2026-09-15,S004,More,Supermarket,Kolkata,East,Vikram Singh,Alpha Cola,Alpha Cola Original 1000ml,SKU9867,Original,1000,3,26,11.5,Eye,2,Yes,0,76.63,,No,Chiller,Yes,Kappa Energy
+AUD00156,2026-04-19,S003,D-Mart,Hypermarket,Mumbai,West,Rohit Kumar,Alpha Cola,Alpha Cola Lime 250ml,SKU2525,Lime,250,15,49,30.6,Top,6,Yes,0,148.35,,No,Shelf,No,Omega Juice
+AUD00157,2026-02-20,S001,Big Bazaar,Hypermarket,Patna,East,Vikram Singh,Gamma Water,Gamma Water Still 500ml,SKU2879,Still,500,8,58,13.8,Middle,3,Yes,0,44.53,36.67,Yes,Floor stack,Yes,Sigma Water
+AUD00158,2026-06-26,S002,Reliance Fresh,Supermarket,Delhi,North,Anita Rao,Beta Juice,Beta Juice Orange 1000ml,SKU1559,Orange,1000,3,51,5.9,Top,5,Yes,0,101.59,,No,Floor stack,Yes,Kappa Energy
+AUD00159,2026-05-28,S001,Big Bazaar,Hypermarket,Patna,East,Rohit Kumar,Delta Energy,Delta Energy Classic 250ml,SKU3363,Classic,250,0,51,0,Middle,5,No,8,78.31,58.95,Yes,Floor stack,Yes,Kappa Energy
+AUD00160,2026-08-13,S008,Easyday,Convenience,Lucknow,North,Vikram Singh,Alpha Cola,Alpha Cola Original 250ml,SKU9470,Original,250,8,31,25.8,Eye,6,Yes,0,252.04,,No,Floor stack,Yes,Sigma Water
+AUD00161,2026-06-11,S003,D-Mart,Hypermarket,Mumbai,West,Anita Rao,Alpha Cola,Alpha Cola Original 500ml,SKU6496,Original,500,13,43,30.2,Bottom,6,Yes,0,156.38,,No,End-cap,Yes,Omega Juice
+AUD00162,2026-06-19,S008,Easyday,Convenience,Lucknow,North,Vikram Singh,Alpha Cola,Alpha Cola Lime 500ml,SKU1558,Lime,500,6,29,20.7,Eye,4,Yes,0,30.55,,No,Chiller,Yes,Sigma Water
+AUD00163,2026-06-28,S005,Spencer's,Supermarket,Bengaluru,South,Rohit Kumar,Beta Juice,Beta Juice Mango 200ml,SKU6479,Mango,200,7,39,17.9,Eye,6,Yes,0,139.68,,No,Floor stack,No,Sigma Water
+AUD00164,2026-08-13,S004,More,Supermarket,Kolkata,East,Meera Das,Beta Juice,Beta Juice Orange 200ml,SKU3767,Orange,200,0,28,0,Eye,3,No,5,228.39,,No,Floor stack,No,Sigma Water
+AUD00165,2026-07-24,S002,Reliance Fresh,Supermarket,Delhi,North,Anita Rao,Beta Juice,Beta Juice Apple 200ml,SKU8938,Apple,200,7,57,12.3,Middle,3,Yes,0,101.6,,No,Floor stack,No,Zeta Cola
+AUD00166,2026-05-28,S003,D-Mart,Hypermarket,Mumbai,West,Anita Rao,Gamma Water,Gamma Water Still 2000ml,SKU4222,Still,2000,0,21,0,Top,1,No,3,124.74,,No,Shelf,Yes,Zeta Cola
+AUD00167,2026-01-07,S006,Local Kirana 12,Kirana,Patna,East,Meera Das,Beta Juice,Beta Juice Mango 200ml,SKU6353,Mango,200,10,37,27.0,Eye,8,Yes,0,18.68,,No,Chiller,No,Omega Juice
+AUD00168,2026-08-28,S001,Big Bazaar,Hypermarket,Patna,East,Anita Rao,Delta Energy,Delta Energy Classic 250ml,SKU1421,Classic,250,12,60,20.0,Middle,6,Yes,0,257.02,,No,Shelf,No,Sigma Water
+AUD00169,2026-06-14,S003,D-Mart,Hypermarket,Mumbai,West,Meera Das,Alpha Cola,Alpha Cola Original 500ml,SKU9825,Original,500,4,33,12.1,Top,6,Yes,0,220.95,,No,End-cap,No,Kappa Energy
+AUD00170,2026-01-18,S001,Big Bazaar,Hypermarket,Patna,East,Rohit Kumar,Gamma Water,Gamma Water Sparkling 2000ml,SKU2634,Sparkling,2000,7,37,18.9,Middle,3,Yes,0,245.53,232.74,Yes,End-cap,No,Zeta Cola
+AUD00171,2026-10-12,S001,Big Bazaar,Hypermarket,Patna,East,Vikram Singh,Beta Juice,Beta Juice Mango 200ml,SKU3907,Mango,200,18,54,33.3,Top,1,Yes,0,205.46,168.51,Yes,End-cap,No,Kappa Energy
+AUD00172,2026-01-03,S004,More,Supermarket,Kolkata,East,Rohit Kumar,Gamma Water,Gamma Water Sparkling 1000ml,SKU6745,Sparkling,1000,7,33,21.2,Eye,4,Yes,0,21.49,,No,Chiller,No,Kappa Energy
+AUD00173,2026-07-21,S004,More,Supermarket,Kolkata,East,Meera Das,Alpha Cola,Alpha Cola Zero 250ml,SKU5889,Zero,250,8,36,22.2,Bottom,4,Yes,0,101.8,,No,End-cap,No,Sigma Water
+AUD00174,2026-10-20,S003,D-Mart,Hypermarket,Mumbai,West,Rohit Kumar,Gamma Water,Gamma Water Sparkling 500ml,SKU4474,Sparkling,500,2,41,4.9,Eye,4,Yes,0,233.29,214.69,Yes,Floor stack,Yes,Kappa Energy
+AUD00175,2026-05-05,S003,D-Mart,Hypermarket,Mumbai,West,Meera Das,Delta Energy,Delta Energy Classic 500ml,SKU2598,Classic,500,2,21,9.5,Top,8,Yes,0,238.61,211.54,Yes,Shelf,No,Sigma Water
+AUD00176,2026-09-20,S007,Star Bazaar,Hypermarket,Chennai,South,Vikram Singh,Gamma Water,Gamma Water Still 2000ml,SKU8053,Still,2000,5,35,14.3,Eye,1,Yes,0,183.92,139.72,Yes,Floor stack,Yes,Zeta Cola
+AUD00177,2026-09-17,S002,Reliance Fresh,Supermarket,Delhi,North,Anita Rao,Delta Energy,Delta Energy Classic 500ml,SKU9682,Classic,500,3,20,15.0,Middle,8,Yes,0,147.41,,No,Shelf,No,Omega Juice
+AUD00178,2026-01-14,S004,More,Supermarket,Kolkata,East,Meera Das,Alpha Cola,Alpha Cola Zero 500ml,SKU5377,Zero,500,4,20,20.0,Eye,6,Yes,0,251.75,223.46,Yes,Chiller,No,Sigma Water
+AUD00179,2026-07-14,S007,Star Bazaar,Hypermarket,Chennai,South,Vikram Singh,Gamma Water,Gamma Water Sparkling 1000ml,SKU1086,Sparkling,1000,10,40,25.0,Top,5,Yes,0,253.37,,No,Chiller,Yes,Omega Juice
+AUD00180,2026-09-22,S002,Reliance Fresh,Supermarket,Delhi,North,Meera Das,Alpha Cola,Alpha Cola Lime 250ml,SKU8462,Lime,250,5,23,21.7,Eye,8,Yes,0,94.47,,No,Chiller,No,Kappa Energy
+AUD00181,2026-02-21,S004,More,Supermarket,Kolkata,East,Vikram Singh,Delta Energy,Delta Energy Sugar-free 250ml,SKU5340,Sugar-free,250,10,45,22.2,Middle,8,Yes,0,176.6,,No,Floor stack,No,Omega Juice
+AUD00182,2026-03-05,S003,D-Mart,Hypermarket,Mumbai,West,Rohit Kumar,Alpha Cola,Alpha Cola Lime 1000ml,SKU3911,Lime,1000,8,53,15.1,Eye,6,Yes,0,214.27,177.04,Yes,Chiller,Yes,Kappa Energy
+AUD00183,2026-02-09,S003,D-Mart,Hypermarket,Mumbai,West,Rohit Kumar,Gamma Water,Gamma Water Sparkling 500ml,SKU5759,Sparkling,500,7,43,16.3,Bottom,2,Yes,0,143.03,,No,Chiller,No,Omega Juice
+AUD00184,2026-06-26,S003,D-Mart,Hypermarket,Mumbai,West,Rohit Kumar,Alpha Cola,Alpha Cola Lime 500ml,SKU5142,Lime,500,9,43,20.9,Eye,4,Yes,0,73.22,,No,Shelf,No,Zeta Cola
+AUD00185,2026-08-28,S003,D-Mart,Hypermarket,Mumbai,West,Anita Rao,Gamma Water,Gamma Water Sparkling 1000ml,SKU4304,Sparkling,1000,5,36,13.9,Top,7,Yes,0,122.33,,No,Floor stack,No,Zeta Cola
+AUD00186,2026-04-13,S008,Easyday,Convenience,Lucknow,North,Vikram Singh,Delta Energy,Delta Energy Sugar-free 250ml,SKU4139,Sugar-free,250,8,38,21.1,Middle,2,Yes,0,163.82,144.67,Yes,Floor stack,Yes,Zeta Cola
+AUD00187,2026-07-14,S008,Easyday,Convenience,Lucknow,North,Rohit Kumar,Delta Energy,Delta Energy Sugar-free 500ml,SKU3887,Sugar-free,500,0,51,0,Eye,8,No,7,153.05,,No,Chiller,Yes,Zeta Cola
+AUD00188,2026-02-08,S004,More,Supermarket,Kolkata,East,Anita Rao,Beta Juice,Beta Juice Orange 200ml,SKU1253,Orange,200,10,38,26.3,Eye,8,Yes,0,109.94,,No,Shelf,Yes,Kappa Energy
+AUD00189,2026-10-05,S001,Big Bazaar,Hypermarket,Patna,East,Rohit Kumar,Beta Juice,Beta Juice Apple 1000ml,SKU1820,Apple,1000,0,50,0,Top,6,No,6,184.3,,No,End-cap,Yes,Omega Juice
+AUD00190,2026-07-22,S005,Spencer's,Supermarket,Bengaluru,South,Anita Rao,Gamma Water,Gamma Water Still 1000ml,SKU6027,Still,1000,6,44,13.6,Middle,4,Yes,0,88.2,,No,Chiller,No,Sigma Water
+AUD00191,2026-10-05,S005,Spencer's,Supermarket,Bengaluru,South,Meera Das,Beta Juice,Beta Juice Mango 200ml,SKU6599,Mango,200,10,33,30.3,Top,8,Yes,0,243.45,,No,Shelf,No,Zeta Cola
+AUD00192,2026-10-20,S002,Reliance Fresh,Supermarket,Delhi,North,Rohit Kumar,Delta Energy,Delta Energy Sugar-free 250ml,SKU7651,Sugar-free,250,5,37,13.5,Bottom,4,Yes,0,86.43,,No,End-cap,Yes,Omega Juice
+AUD00193,2026-09-24,S007,Star Bazaar,Hypermarket,Chennai,South,Vikram Singh,Alpha Cola,Alpha Cola Original 500ml,SKU9162,Original,500,8,24,33.3,Top,5,Yes,0,59.14,,No,End-cap,Yes,Omega Juice
+AUD00194,2026-05-23,S004,More,Supermarket,Kolkata,East,Rohit Kumar,Alpha Cola,Alpha Cola Zero 250ml,SKU7956,Zero,250,3,32,9.4,Top,1,Yes,0,116.6,,No,End-cap,Yes,Omega Juice
+AUD00195,2026-06-18,S008,Easyday,Convenience,Lucknow,North,Vikram Singh,Gamma Water,Gamma Water Still 2000ml,SKU3488,Still,2000,13,40,32.5,Top,7,Yes,0,52.73,,No,Shelf,No,Kappa Energy
+AUD00196,2026-06-22,S003,D-Mart,Hypermarket,Mumbai,West,Rohit Kumar,Gamma Water,Gamma Water Still 2000ml,SKU2873,Still,2000,4,54,7.4,Eye,6,Yes,0,51.49,39.88,Yes,End-cap,Yes,Sigma Water
+AUD00197,2026-09-25,S008,Easyday,Convenience,Lucknow,North,Anita Rao,Gamma Water,Gamma Water Still 1000ml,SKU4298,Still,1000,3,25,12.0,Top,8,Yes,0,226.68,,No,Floor stack,Yes,Sigma Water
+AUD00198,2026-08-16,S001,Big Bazaar,Hypermarket,Patna,East,Vikram Singh,Alpha Cola,Alpha Cola Original 1000ml,SKU6399,Original,1000,4,32,12.5,Middle,3,Yes,0,27.26,,No,Shelf,No,Zeta Cola
+AUD00199,2026-02-14,S008,Easyday,Convenience,Lucknow,North,Vikram Singh,Alpha Cola,Alpha Cola Lime 250ml,SKU7804,Lime,250,8,30,26.7,Middle,2,Yes,0,23.26,,No,Floor stack,Yes,Sigma Water
+AUD00200,2026-02-05,S003,D-Mart,Hypermarket,Mumbai,West,Rohit Kumar,Alpha Cola,Alpha Cola Zero 250ml,SKU5431,Zero,250,0,50,0,Eye,6,No,8,38.03,,No,End-cap,Yes,Zeta Cola
+AUD00201,2026-09-17,S005,Spencer's,Supermarket,Bengaluru,South,Vikram Singh,Gamma Water,Gamma Water Still 1000ml,SKU2556,Still,1000,10,45,22.2,Eye,2,Yes,0,46.14,43.31,Yes,Chiller,Yes,Omega Juice
+AUD00202,2026-02-03,S002,Reliance Fresh,Supermarket,Delhi,North,Vikram Singh,Beta Juice,Beta Juice Mango 1000ml,SKU4832,Mango,1000,5,21,23.8,Top,1,Yes,0,141.94,129.77,Yes,Shelf,No,Zeta Cola
+AUD00203,2026-03-01,S001,Big Bazaar,Hypermarket,Patna,East,Meera Das,Beta Juice,Beta Juice Apple 200ml,SKU7749,Apple,200,0,39,0,Bottom,1,No,2,200.99,,No,End-cap,Yes,Omega Juice
+AUD00204,2026-01-26,S003,D-Mart,Hypermarket,Mumbai,West,Rohit Kumar,Gamma Water,Gamma Water Still 500ml,SKU1618,Still,500,5,32,15.6,Bottom,6,Yes,0,188.61,175.71,Yes,Shelf,Yes,Zeta Cola
+AUD00205,2026-08-05,S006,Local Kirana 12,Kirana,Patna,East,Meera Das,Delta Energy,Delta Energy Classic 500ml,SKU5963,Classic,500,7,57,12.3,Eye,8,Yes,0,135.68,,No,End-cap,No,Kappa Energy
+AUD00206,2026-08-19,S005,Spencer's,Supermarket,Bengaluru,South,Anita Rao,Alpha Cola,Alpha Cola Original 1000ml,SKU7422,Original,1000,5,34,14.7,Bottom,6,Yes,0,127.19,116.4,Yes,Chiller,Yes,Omega Juice
+AUD00207,2026-08-14,S006,Local Kirana 12,Kirana,Patna,East,Rohit Kumar,Delta Energy,Delta Energy Sugar-free 250ml,SKU5906,Sugar-free,250,9,39,23.1,Bottom,3,Yes,0,247.99,,No,Floor stack,Yes,Zeta Cola
+AUD00208,2026-08-14,S006,Local Kirana 12,Kirana,Patna,East,Vikram Singh,Delta Energy,Delta Energy Sugar-free 250ml,SKU2977,Sugar-free,250,0,38,0,Top,1,No,7,81.4,,No,End-cap,No,Sigma Water
+AUD00209,2026-07-10,S006,Local Kirana 12,Kirana,Patna,East,Rohit Kumar,Beta Juice,Beta Juice Orange 200ml,SKU6218,Orange,200,7,34,20.6,Top,3,Yes,0,164.51,,No,Chiller,Yes,Zeta Cola
+AUD00210,2026-09-22,S003,D-Mart,Hypermarket,Mumbai,West,Rohit Kumar,Alpha Cola,Alpha Cola Original 2000ml,SKU3212,Original,2000,10,56,17.9,Middle,7,Yes,0,180.68,,No,Shelf,No,Kappa Energy
+AUD00211,2026-08-16,S005,Spencer's,Supermarket,Bengaluru,South,Meera Das,Gamma Water,Gamma Water Sparkling 1000ml,SKU1294,Sparkling,1000,14,60,23.3,Eye,2,Yes,0,213.13,183.61,Yes,Chiller,No,Omega Juice
+AUD00212,2026-10-19,S008,Easyday,Convenience,Lucknow,North,Anita Rao,Alpha Cola,Alpha Cola Zero 2000ml,SKU7426,Zero,2000,2,28,7.1,Top,5,Yes,0,233.4,204.33,Yes,End-cap,No,Zeta Cola
+AUD00213,2026-10-16,S007,Star Bazaar,Hypermarket,Chennai,South,Anita Rao,Delta Energy,Delta Energy Classic 500ml,SKU9722,Classic,500,13,51,25.5,Middle,3,Yes,0,82.98,65.57,Yes,Shelf,Yes,Sigma Water
+AUD00214,2026-05-10,S003,D-Mart,Hypermarket,Mumbai,West,Rohit Kumar,Gamma Water,Gamma Water Still 2000ml,SKU4233,Still,2000,8,39,20.5,Middle,8,Yes,0,103.23,,No,Chiller,Yes,Sigma Water
+AUD00215,2026-09-27,S006,Local Kirana 12,Kirana,Patna,East,Rohit Kumar,Delta Energy,Delta Energy Sugar-free 500ml,SKU3618,Sugar-free,500,0,50,0,Middle,1,No,3,241.82,,No,Floor stack,No,Kappa Energy
+AUD00216,2026-08-25,S002,Reliance Fresh,Supermarket,Delhi,North,Anita Rao,Gamma Water,Gamma Water Sparkling 1000ml,SKU1677,Sparkling,1000,10,45,22.2,Middle,6,Yes,0,223.6,194.63,Yes,Floor stack,No,Omega Juice
+AUD00217,2026-02-25,S002,Reliance Fresh,Supermarket,Delhi,North,Rohit Kumar,Alpha Cola,Alpha Cola Lime 2000ml,SKU7463,Lime,2000,6,27,22.2,Middle,7,Yes,0,58.22,,No,Chiller,No,Sigma Water
+AUD00218,2026-04-11,S006,Local Kirana 12,Kirana,Patna,East,Anita Rao,Beta Juice,Beta Juice Apple 200ml,SKU7769,Apple,200,18,54,33.3,Eye,1,Yes,0,242.18,222.9,Yes,End-cap,No,Kappa Energy
+AUD00219,2026-07-10,S004,More,Supermarket,Kolkata,East,Vikram Singh,Gamma Water,Gamma Water Still 500ml,SKU7296,Still,500,5,34,14.7,Middle,2,Yes,0,235.09,,No,Floor stack,Yes,Omega Juice
+AUD00220,2026-06-07,S005,Spencer's,Supermarket,Bengaluru,South,Anita Rao,Alpha Cola,Alpha Cola Zero 250ml,SKU8499,Zero,250,2,43,4.7,Top,8,Yes,0,32.68,,No,Floor stack,Yes,Kappa Energy
+AUD00221,2026-06-17,S001,Big Bazaar,Hypermarket,Patna,East,Vikram Singh,Alpha Cola,Alpha Cola Lime 2000ml,SKU4569,Lime,2000,9,27,33.3,Top,5,Yes,0,169.22,,No,Shelf,Yes,Omega Juice
+AUD00222,2026-07-17,S001,Big Bazaar,Hypermarket,Patna,East,Rohit Kumar,Gamma Water,Gamma Water Sparkling 1000ml,SKU4707,Sparkling,1000,7,24,29.2,Eye,6,Yes,0,36.93,34.8,Yes,Floor stack,No,Zeta Cola
+AUD00223,2026-03-10,S008,Easyday,Convenience,Lucknow,North,Vikram Singh,Beta Juice,Beta Juice Orange 1000ml,SKU2252,Orange,1000,16,59,27.1,Eye,8,Yes,0,165.84,150.17,Yes,End-cap,No,Omega Juice
+AUD00224,2026-09-09,S005,Spencer's,Supermarket,Bengaluru,South,Meera Das,Alpha Cola,Alpha Cola Lime 250ml,SKU3681,Lime,250,4,24,16.7,Middle,6,Yes,0,18.19,,No,Floor stack,Yes,Zeta Cola
+AUD00225,2026-08-16,S003,D-Mart,Hypermarket,Mumbai,West,Anita Rao,Gamma Water,Gamma Water Sparkling 500ml,SKU6531,Sparkling,500,0,49,0,Middle,8,No,14,41.14,38.89,Yes,Shelf,No,Kappa Energy
+AUD00226,2026-07-25,S004,More,Supermarket,Kolkata,East,Rohit Kumar,Gamma Water,Gamma Water Sparkling 2000ml,SKU3637,Sparkling,2000,3,21,14.3,Bottom,3,Yes,0,246.6,,No,End-cap,Yes,Zeta Cola
+AUD00227,2026-02-28,S004,More,Supermarket,Kolkata,East,Meera Das,Delta Energy,Delta Energy Classic 250ml,SKU6545,Classic,250,5,25,20.0,Bottom,8,Yes,0,64.97,,No,End-cap,Yes,Omega Juice
+AUD00228,2026-10-19,S004,More,Supermarket,Kolkata,East,Rohit Kumar,Gamma Water,Gamma Water Sparkling 500ml,SKU2106,Sparkling,500,6,26,23.1,Eye,8,Yes,0,246.48,,No,End-cap,No,Omega Juice
+AUD00229,2026-04-01,S008,Easyday,Convenience,Lucknow,North,Rohit Kumar,Delta Energy,Delta Energy Classic 250ml,SKU4672,Classic,250,0,51,0,Eye,4,No,2,73.46,,No,End-cap,Yes,Zeta Cola
+AUD00230,2026-05-02,S008,Easyday,Convenience,Lucknow,North,Vikram Singh,Alpha Cola,Alpha Cola Zero 500ml,SKU8666,Zero,500,2,34,5.9,Eye,8,Yes,0,171.47,,No,Shelf,Yes,Omega Juice
+AUD00231,2026-01-03,S003,D-Mart,Hypermarket,Mumbai,West,Anita Rao,Beta Juice,Beta Juice Apple 1000ml,SKU2402,Apple,1000,6,26,23.1,Eye,1,Yes,0,232.97,,No,Floor stack,No,Kappa Energy
+AUD00232,2026-07-04,S001,Big Bazaar,Hypermarket,Patna,East,Anita Rao,Beta Juice,Beta Juice Mango 200ml,SKU9947,Mango,200,16,52,30.8,Middle,2,Yes,0,188.49,,No,Shelf,Yes,Zeta Cola
+AUD00233,2026-04-01,S002,Reliance Fresh,Supermarket,Delhi,North,Anita Rao,Gamma Water,Gamma Water Sparkling 1000ml,SKU2228,Sparkling,1000,0,39,0,Eye,2,No,11,163.57,,No,End-cap,No,Kappa Energy
+AUD00234,2026-07-26,S007,Star Bazaar,Hypermarket,Chennai,South,Anita Rao,Beta Juice,Beta Juice Apple 200ml,SKU3946,Apple,200,2,21,9.5,Middle,8,Yes,0,22.5,,No,Floor stack,Yes,Sigma Water
+AUD00235,2026-08-25,S005,Spencer's,Supermarket,Bengaluru,South,Meera Das,Gamma Water,Gamma Water Still 1000ml,SKU5492,Still,1000,3,44,6.8,Top,1,Yes,0,54.92,,No,Chiller,Yes,Sigma Water
+AUD00236,2026-06-14,S004,More,Supermarket,Kolkata,East,Meera Das,Gamma Water,Gamma Water Sparkling 500ml,SKU7014,Sparkling,500,7,35,20.0,Eye,2,Yes,0,145.34,137.07,Yes,End-cap,Yes,Zeta Cola
+AUD00237,2026-07-23,S004,More,Supermarket,Kolkata,East,Anita Rao,Delta Energy,Delta Energy Classic 250ml,SKU3888,Classic,250,6,33,18.2,Bottom,3,Yes,0,231.99,,No,Floor stack,No,Omega Juice
+AUD00238,2026-03-21,S006,Local Kirana 12,Kirana,Patna,East,Anita Rao,Gamma Water,Gamma Water Still 500ml,SKU2112,Still,500,6,33,18.2,Bottom,5,Yes,0,175.71,,No,Shelf,Yes,Zeta Cola
+AUD00239,2026-05-25,S001,Big Bazaar,Hypermarket,Patna,East,Rohit Kumar,Alpha Cola,Alpha Cola Zero 250ml,SKU3914,Zero,250,3,29,10.3,Eye,5,Yes,0,173.86,,No,Floor stack,No,Kappa Energy
+AUD00240,2026-04-04,S003,D-Mart,Hypermarket,Mumbai,West,Vikram Singh,Delta Energy,Delta Energy Classic 500ml,SKU6746,Classic,500,7,41,17.1,Middle,5,Yes,0,22.52,,No,Shelf,Yes,Zeta Cola
+AUD00241,2026-01-13,S002,Reliance Fresh,Supermarket,Delhi,North,Meera Das,Beta Juice,Beta Juice Apple 1000ml,SKU2457,Apple,1000,0,36,0,Top,1,No,2,132.94,,No,Floor stack,Yes,Sigma Water
+AUD00242,2026-03-17,S003,D-Mart,Hypermarket,Mumbai,West,Anita Rao,Gamma Water,Gamma Water Sparkling 2000ml,SKU5068,Sparkling,2000,4,31,12.9,Top,5,Yes,0,195.61,,No,Chiller,Yes,Omega Juice
+AUD00243,2026-07-27,S004,More,Supermarket,Kolkata,East,Meera Das,Beta Juice,Beta Juice Orange 1000ml,SKU4847,Orange,1000,9,35,25.7,Middle,1,Yes,0,16.85,14.23,Yes,Chiller,Yes,Zeta Cola
+AUD00244,2026-08-02,S008,Easyday,Convenience,Lucknow,North,Anita Rao,Delta Energy,Delta Energy Classic 500ml,SKU4125,Classic,500,9,27,33.3,Eye,5,Yes,0,57.59,47.35,Yes,Chiller,Yes,Sigma Water
+AUD00245,2026-07-04,S001,Big Bazaar,Hypermarket,Patna,East,Anita Rao,Alpha Cola,Alpha Cola Lime 500ml,SKU8075,Lime,500,13,50,26.0,Eye,4,Yes,0,164.73,,No,End-cap,No,Omega Juice
+AUD00246,2026-08-21,S002,Reliance Fresh,Supermarket,Delhi,North,Meera Das,Alpha Cola,Alpha Cola Zero 1000ml,SKU2604,Zero,1000,16,49,32.7,Top,5,Yes,0,207.34,183.0,Yes,Floor stack,Yes,Zeta Cola
+AUD00247,2026-08-22,S008,Easyday,Convenience,Lucknow,North,Anita Rao,Delta Energy,Delta Energy Sugar-free 250ml,SKU9800,Sugar-free,250,2,52,3.8,Top,8,Yes,0,213.83,,No,End-cap,No,Omega Juice
+AUD00248,2026-08-07,S007,Star Bazaar,Hypermarket,Chennai,South,Anita Rao,Gamma Water,Gamma Water Still 1000ml,SKU5672,Still,1000,0,31,0,Bottom,3,No,14,127.33,,No,End-cap,No,Sigma Water
+AUD00249,2026-06-17,S004,More,Supermarket,Kolkata,East,Rohit Kumar,Alpha Cola,Alpha Cola Zero 250ml,SKU4477,Zero,250,2,30,6.7,Top,4,Yes,0,133.63,122.51,Yes,End-cap,No,Kappa Energy
+AUD00250,2026-06-25,S005,Spencer's,Supermarket,Bengaluru,South,Vikram Singh,Beta Juice,Beta Juice Orange 200ml,SKU4906,Orange,200,4,46,8.7,Eye,3,Yes,0,178.82,155.84,Yes,Floor stack,No,Kappa Energy
+AUD00251,2026-09-05,S007,Star Bazaar,Hypermarket,Chennai,South,Meera Das,Beta Juice,Beta Juice Orange 200ml,SKU1932,Orange,200,5,55,9.1,Top,4,Yes,0,116.93,,No,Chiller,Yes,Zeta Cola
+AUD00252,2026-07-27,S008,Easyday,Convenience,Lucknow,North,Anita Rao,Delta Energy,Delta Energy Sugar-free 250ml,SKU1286,Sugar-free,250,6,29,20.7,Middle,2,Yes,0,189.46,153.04,Yes,End-cap,Yes,Kappa Energy
+AUD00253,2026-06-17,S002,Reliance Fresh,Supermarket,Delhi,North,Vikram Singh,Delta Energy,Delta Energy Sugar-free 250ml,SKU8143,Sugar-free,250,5,48,10.4,Eye,5,Yes,0,144.95,,No,Chiller,Yes,Sigma Water
+AUD00254,2026-06-26,S004,More,Supermarket,Kolkata,East,Anita Rao,Delta Energy,Delta Energy Sugar-free 500ml,SKU8289,Sugar-free,500,7,24,29.2,Bottom,6,Yes,0,167.94,,No,End-cap,No,Sigma Water
+AUD00255,2026-06-24,S004,More,Supermarket,Kolkata,East,Meera Das,Delta Energy,Delta Energy Classic 250ml,SKU7227,Classic,250,15,54,27.8,Bottom,6,Yes,0,47.81,,No,End-cap,Yes,Omega Juice
+AUD00256,2026-06-19,S005,Spencer's,Supermarket,Bengaluru,South,Meera Das,Alpha Cola,Alpha Cola Original 500ml,SKU6654,Original,500,11,45,24.4,Bottom,6,Yes,0,34.06,,No,End-cap,No,Zeta Cola
+AUD00257,2026-10-25,S003,D-Mart,Hypermarket,Mumbai,West,Vikram Singh,Delta Energy,Delta Energy Sugar-free 250ml,SKU7049,Sugar-free,250,11,60,18.3,Middle,5,Yes,0,172.31,,No,End-cap,Yes,Kappa Energy
+AUD00258,2026-02-23,S001,Big Bazaar,Hypermarket,Patna,East,Vikram Singh,Beta Juice,Beta Juice Mango 1000ml,SKU1064,Mango,1000,0,55,0,Top,4,No,3,210.61,,No,Floor stack,Yes,Zeta Cola
+AUD00259,2026-05-14,S001,Big Bazaar,Hypermarket,Patna,East,Rohit Kumar,Alpha Cola,Alpha Cola Original 250ml,SKU5235,Original,250,4,32,12.5,Middle,1,Yes,0,32.97,,No,Shelf,No,Omega Juice
+AUD00260,2026-08-05,S005,Spencer's,Supermarket,Bengaluru,South,Vikram Singh,Alpha Cola,Alpha Cola Original 250ml,SKU1839,Original,250,4,36,11.1,Top,7,Yes,0,193.55,,No,Chiller,No,Zeta Cola
+AUD00261,2026-08-26,S004,More,Supermarket,Kolkata,East,Vikram Singh,Gamma Water,Gamma Water Still 1000ml,SKU2528,Still,1000,2,26,7.7,Bottom,7,Yes,0,61.87,,No,End-cap,Yes,Omega Juice
+AUD00262,2026-01-01,S004,More,Supermarket,Kolkata,East,Vikram Singh,Alpha Cola,Alpha Cola Lime 2000ml,SKU1385,Lime,2000,6,35,17.1,Top,5,Yes,0,142.85,,No,End-cap,No,Omega Juice
+AUD00263,2026-05-13,S003,D-Mart,Hypermarket,Mumbai,West,Meera Das,Beta Juice,Beta Juice Orange 1000ml,SKU9567,Orange,1000,0,28,0,Middle,1,No,13,128.42,,No,Floor stack,Yes,Sigma Water
+AUD00264,2026-09-23,S001,Big Bazaar,Hypermarket,Patna,East,Meera Das,Gamma Water,Gamma Water Still 500ml,SKU8806,Still,500,5,31,16.1,Middle,2,Yes,0,63.44,48.93,Yes,Shelf,No,Kappa Energy
+AUD00265,2026-06-18,S008,Easyday,Convenience,Lucknow,North,Rohit Kumar,Alpha Cola,Alpha Cola Zero 500ml,SKU6155,Zero,500,7,48,14.6,Eye,2,Yes,0,244.82,,No,Chiller,Yes,Sigma Water
+AUD00266,2026-06-14,S003,D-Mart,Hypermarket,Mumbai,West,Anita Rao,Alpha Cola,Alpha Cola Lime 500ml,SKU3372,Lime,500,5,24,20.8,Bottom,2,Yes,0,23.61,,No,Shelf,Yes,Sigma Water
+AUD00267,2026-04-06,S003,D-Mart,Hypermarket,Mumbai,West,Rohit Kumar,Alpha Cola,Alpha Cola Lime 250ml,SKU7976,Lime,250,4,40,10.0,Middle,6,Yes,0,162.9,,No,Shelf,Yes,Kappa Energy
+AUD00268,2026-08-13,S002,Reliance Fresh,Supermarket,Delhi,North,Vikram Singh,Alpha Cola,Alpha Cola Zero 2000ml,SKU3123,Zero,2000,5,50,10.0,Top,8,Yes,0,162.99,125.73,Yes,Floor stack,Yes,Zeta Cola
+AUD00269,2026-07-02,S005,Spencer's,Supermarket,Bengaluru,South,Anita Rao,Delta Energy,Delta Energy Classic 500ml,SKU4796,Classic,500,4,40,10.0,Middle,1,Yes,0,222.92,,No,Floor stack,Yes,Zeta Cola
+AUD00270,2026-02-08,S006,Local Kirana 12,Kirana,Patna,East,Anita Rao,Beta Juice,Beta Juice Orange 1000ml,SKU7726,Orange,1000,6,43,14.0,Top,1,Yes,0,101.46,,No,End-cap,Yes,Sigma Water
+AUD00271,2026-01-12,S005,Spencer's,Supermarket,Bengaluru,South,Vikram Singh,Gamma Water,Gamma Water Sparkling 1000ml,SKU6238,Sparkling,1000,4,39,10.3,Top,1,Yes,0,189.75,,No,Chiller,No,Kappa Energy
+AUD00272,2026-01-08,S008,Easyday,Convenience,Lucknow,North,Meera Das,Beta Juice,Beta Juice Apple 1000ml,SKU2157,Apple,1000,0,43,0,Eye,8,No,12,44.0,,No,Shelf,Yes,Kappa Energy
+AUD00273,2026-06-24,S007,Star Bazaar,Hypermarket,Chennai,South,Meera Das,Gamma Water,Gamma Water Sparkling 1000ml,SKU6771,Sparkling,1000,12,39,30.8,Eye,2,Yes,0,234.21,,No,Chiller,No,Kappa Energy
+AUD00274,2026-02-21,S001,Big Bazaar,Hypermarket,Patna,East,Anita Rao,Beta Juice,Beta Juice Mango 200ml,SKU8561,Mango,200,10,43,23.3,Bottom,1,Yes,0,249.87,,No,End-cap,No,Zeta Cola
+AUD00275,2026-07-06,S003,D-Mart,Hypermarket,Mumbai,West,Rohit Kumar,Gamma Water,Gamma Water Sparkling 500ml,SKU2261,Sparkling,500,11,34,32.4,Bottom,4,Yes,0,68.66,,No,Floor stack,No,Sigma Water
+AUD00276,2026-03-01,S003,D-Mart,Hypermarket,Mumbai,West,Anita Rao,Delta Energy,Delta Energy Classic 250ml,SKU6926,Classic,250,14,58,24.1,Eye,1,Yes,0,152.47,,No,End-cap,Yes,Omega Juice
+AUD00277,2026-10-23,S008,Easyday,Convenience,Lucknow,North,Meera Das,Beta Juice,Beta Juice Apple 200ml,SKU5522,Apple,200,4,29,13.8,Top,7,Yes,0,211.83,,No,End-cap,No,Zeta Cola
+AUD00278,2026-10-06,S002,Reliance Fresh,Supermarket,Delhi,North,Vikram Singh,Alpha Cola,Alpha Cola Zero 500ml,SKU2799,Zero,500,10,35,28.6,Bottom,4,Yes,0,141.59,113.91,Yes,Chiller,Yes,Kappa Energy
+AUD00279,2026-09-11,S001,Big Bazaar,Hypermarket,Patna,East,Rohit Kumar,Delta Energy,Delta Energy Classic 250ml,SKU5016,Classic,250,0,55,0,Top,4,No,3,127.69,,No,Chiller,No,Kappa Energy
+AUD00280,2026-09-10,S005,Spencer's,Supermarket,Bengaluru,South,Vikram Singh,Gamma Water,Gamma Water Still 2000ml,SKU7842,Still,2000,0,33,0,Bottom,8,No,13,62.31,,No,Chiller,No,Sigma Water
+AUD00281,2026-02-13,S008,Easyday,Convenience,Lucknow,North,Anita Rao,Beta Juice,Beta Juice Orange 200ml,SKU6801,Orange,200,7,52,13.5,Bottom,6,Yes,0,101.19,,No,Floor stack,No,Omega Juice
+AUD00282,2026-07-20,S008,Easyday,Convenience,Lucknow,North,Meera Das,Alpha Cola,Alpha Cola Original 2000ml,SKU3563,Original,2000,10,42,23.8,Eye,3,Yes,0,240.46,,No,Floor stack,No,Sigma Water
+AUD00283,2026-01-20,S004,More,Supermarket,Kolkata,East,Meera Das,Gamma Water,Gamma Water Still 2000ml,SKU8858,Still,2000,14,55,25.5,Bottom,8,Yes,0,84.99,68.41,Yes,Shelf,No,Sigma Water
+AUD00284,2026-06-26,S008,Easyday,Convenience,Lucknow,North,Rohit Kumar,Alpha Cola,Alpha Cola Zero 1000ml,SKU2100,Zero,1000,11,44,25.0,Middle,1,Yes,0,207.56,167.12,Yes,Floor stack,No,Kappa Energy
+AUD00285,2026-04-08,S003,D-Mart,Hypermarket,Mumbai,West,Anita Rao,Delta Energy,Delta Energy Classic 250ml,SKU8153,Classic,250,0,32,0,Middle,2,No,12,212.37,200.53,Yes,Shelf,Yes,Zeta Cola
+AUD00286,2026-03-20,S003,D-Mart,Hypermarket,Mumbai,West,Vikram Singh,Delta Energy,Delta Energy Classic 250ml,SKU5942,Classic,250,14,51,27.5,Eye,2,Yes,0,169.24,,No,Shelf,Yes,Zeta Cola
+AUD00287,2026-04-12,S001,Big Bazaar,Hypermarket,Patna,East,Anita Rao,Alpha Cola,Alpha Cola Zero 500ml,SKU8118,Zero,500,9,27,33.3,Middle,7,Yes,0,59.33,,No,Chiller,No,Kappa Energy
+AUD00288,2026-01-15,S004,More,Supermarket,Kolkata,East,Anita Rao,Delta Energy,Delta Energy Classic 250ml,SKU8202,Classic,250,4,30,13.3,Eye,8,Yes,0,209.46,,No,Chiller,Yes,Sigma Water
+AUD00289,2026-09-26,S007,Star Bazaar,Hypermarket,Chennai,South,Anita Rao,Beta Juice,Beta Juice Mango 200ml,SKU6930,Mango,200,7,51,13.7,Bottom,4,Yes,0,53.37,,No,Chiller,No,Sigma Water
+AUD00290,2026-10-27,S008,Easyday,Convenience,Lucknow,North,Anita Rao,Beta Juice,Beta Juice Orange 1000ml,SKU6346,Orange,1000,6,32,18.8,Middle,5,Yes,0,66.68,,No,Floor stack,Yes,Kappa Energy
+AUD00291,2026-10-17,S005,Spencer's,Supermarket,Bengaluru,South,Rohit Kumar,Alpha Cola,Alpha Cola Zero 250ml,SKU1071,Zero,250,8,29,27.6,Eye,3,Yes,0,155.47,,No,Shelf,No,Sigma Water
+AUD00292,2026-05-07,S002,Reliance Fresh,Supermarket,Delhi,North,Anita Rao,Delta Energy,Delta Energy Sugar-free 500ml,SKU5229,Sugar-free,500,7,25,28.0,Middle,6,Yes,0,105.25,83.27,Yes,Chiller,No,Kappa Energy
+AUD00293,2026-10-28,S006,Local Kirana 12,Kirana,Patna,East,Vikram Singh,Delta Energy,Delta Energy Sugar-free 250ml,SKU6760,Sugar-free,250,7,22,31.8,Bottom,4,Yes,0,213.77,171.43,Yes,Shelf,No,Kappa Energy
+AUD00294,2026-05-11,S001,Big Bazaar,Hypermarket,Patna,East,Vikram Singh,Alpha Cola,Alpha Cola Original 250ml,SKU3238,Original,250,9,33,27.3,Eye,3,Yes,0,229.64,210.73,Yes,Floor stack,No,Omega Juice
+AUD00295,2026-10-10,S003,D-Mart,Hypermarket,Mumbai,West,Anita Rao,Beta Juice,Beta Juice Orange 200ml,SKU7277,Orange,200,6,36,16.7,Bottom,4,Yes,0,69.18,,No,Shelf,No,Kappa Energy
+AUD00296,2026-05-06,S006,Local Kirana 12,Kirana,Patna,East,Anita Rao,Alpha Cola,Alpha Cola Lime 2000ml,SKU6214,Lime,2000,9,34,26.5,Bottom,3,Yes,0,144.86,135.15,Yes,Chiller,No,Kappa Energy
+AUD00297,2026-02-05,S005,Spencer's,Supermarket,Bengaluru,South,Rohit Kumar,Gamma Water,Gamma Water Still 2000ml,SKU5630,Still,2000,12,51,23.5,Middle,7,Yes,0,232.09,,No,End-cap,No,Zeta Cola
+AUD00298,2026-06-16,S006,Local Kirana 12,Kirana,Patna,East,Vikram Singh,Beta Juice,Beta Juice Orange 200ml,SKU9900,Orange,200,9,38,23.7,Top,6,Yes,0,152.94,,No,End-cap,Yes,Sigma Water
+AUD00299,2026-02-25,S005,Spencer's,Supermarket,Bengaluru,South,Vikram Singh,Beta Juice,Beta Juice Apple 200ml,SKU2808,Apple,200,2,46,4.3,Middle,2,Yes,0,32.37,,No,End-cap,Yes,Sigma Water
+AUD00300,2026-10-18,S001,Big Bazaar,Hypermarket,Patna,East,Vikram Singh,Delta Energy,Delta Energy Classic 500ml,SKU1214,Classic,500,11,40,27.5,Top,3,Yes,0,141.22,,No,End-cap,Yes,Omega Juice
+AUD00301,2026-07-04,S002,Reliance Fresh,Supermarket,Delhi,North,Meera Das,Gamma Water,Gamma Water Sparkling 2000ml,SKU9427,Sparkling,2000,8,44,18.2,Top,7,Yes,0,21.59,,No,Floor stack,Yes,Zeta Cola
+AUD00302,2026-06-09,S001,Big Bazaar,Hypermarket,Patna,East,Vikram Singh,Delta Energy,Delta Energy Sugar-free 250ml,SKU3663,Sugar-free,250,13,43,30.2,Top,3,Yes,0,47.68,,No,End-cap,Yes,Zeta Cola
+AUD00303,2026-04-14,S003,D-Mart,Hypermarket,Mumbai,West,Vikram Singh,Gamma Water,Gamma Water Still 2000ml,SKU4878,Still,2000,15,51,29.4,Eye,4,Yes,0,198.76,,No,Floor stack,Yes,Zeta Cola
+AUD00304,2026-01-15,S008,Easyday,Convenience,Lucknow,North,Vikram Singh,Delta Energy,Delta Energy Sugar-free 500ml,SKU1616,Sugar-free,500,0,50,0,Top,4,No,2,254.0,,No,Floor stack,Yes,Sigma Water
+AUD00305,2026-03-06,S002,Reliance Fresh,Supermarket,Delhi,North,Meera Das,Gamma Water,Gamma Water Still 1000ml,SKU8077,Still,1000,3,39,7.7,Middle,2,Yes,0,244.47,217.88,Yes,Chiller,Yes,Zeta Cola
+AUD00306,2026-09-24,S008,Easyday,Convenience,Lucknow,North,Vikram Singh,Alpha Cola,Alpha Cola Lime 500ml,SKU9366,Lime,500,3,60,5.0,Bottom,3,Yes,0,24.71,19.66,Yes,End-cap,No,Sigma Water
+AUD00307,2026-09-22,S008,Easyday,Convenience,Lucknow,North,Meera Das,Alpha Cola,Alpha Cola Original 2000ml,SKU6969,Original,2000,3,20,15.0,Middle,4,Yes,0,39.74,,No,Floor stack,No,Omega Juice
+AUD00308,2026-05-21,S001,Big Bazaar,Hypermarket,Patna,East,Anita Rao,Delta Energy,Delta Energy Sugar-free 500ml,SKU7265,Sugar-free,500,0,24,0,Bottom,5,No,4,28.93,22.27,Yes,Chiller,No,Sigma Water
+AUD00309,2026-03-19,S002,Reliance Fresh,Supermarket,Delhi,North,Anita Rao,Delta Energy,Delta Energy Classic 250ml,SKU2227,Classic,250,5,24,20.8,Eye,6,Yes,0,176.7,141.01,Yes,End-cap,No,Sigma Water
+AUD00310,2026-02-18,S003,D-Mart,Hypermarket,Mumbai,West,Rohit Kumar,Gamma Water,Gamma Water Sparkling 2000ml,SKU4853,Sparkling,2000,4,37,10.8,Top,5,Yes,0,122.3,109.26,Yes,Shelf,No,Zeta Cola
+AUD00311,2026-09-28,S004,More,Supermarket,Kolkata,East,Rohit Kumar,Alpha Cola,Alpha Cola Original 250ml,SKU9735,Original,250,3,42,7.1,Top,5,Yes,0,259.11,,No,End-cap,No,Sigma Water
+AUD00312,2026-01-14,S003,D-Mart,Hypermarket,Mumbai,West,Rohit Kumar,Gamma Water,Gamma Water Sparkling 2000ml,SKU4038,Sparkling,2000,9,55,16.4,Eye,5,Yes,0,176.58,142.17,Yes,Chiller,No,Kappa Energy
+AUD00313,2026-04-24,S004,More,Supermarket,Kolkata,East,Rohit Kumar,Delta Energy,Delta Energy Sugar-free 500ml,SKU6864,Sugar-free,500,15,45,33.3,Middle,8,Yes,0,215.55,,No,Floor stack,Yes,Sigma Water
+AUD00314,2026-06-14,S004,More,Supermarket,Kolkata,East,Anita Rao,Beta Juice,Beta Juice Orange 1000ml,SKU8167,Orange,1000,13,60,21.7,Middle,4,Yes,0,81.83,66.94,Yes,Chiller,Yes,Omega Juice
+AUD00315,2026-07-28,S008,Easyday,Convenience,Lucknow,North,Rohit Kumar,Alpha Cola,Alpha Cola Zero 500ml,SKU5727,Zero,500,0,37,0,Bottom,3,No,6,47.13,,No,End-cap,Yes,Omega Juice
+AUD00316,2026-07-07,S006,Local Kirana 12,Kirana,Patna,East,Vikram Singh,Gamma Water,Gamma Water Still 2000ml,SKU7138,Still,2000,0,35,0,Eye,2,No,5,57.4,48.1,Yes,Chiller,No,Zeta Cola
+AUD00317,2026-01-20,S007,Star Bazaar,Hypermarket,Chennai,South,Vikram Singh,Delta Energy,Delta Energy Classic 500ml,SKU4389,Classic,500,0,20,0,Eye,4,No,5,93.66,72.09,Yes,End-cap,Yes,Kappa Energy
+AUD00318,2026-05-14,S006,Local Kirana 12,Kirana,Patna,East,Meera Das,Alpha Cola,Alpha Cola Original 1000ml,SKU1252,Original,1000,4,53,7.5,Top,2,Yes,0,44.97,36.71,Yes,Chiller,Yes,Kappa Energy
+AUD00319,2026-08-25,S004,More,Supermarket,Kolkata,East,Rohit Kumar,Gamma Water,Gamma Water Still 1000ml,SKU8664,Still,1000,3,60,5.0,Eye,1,Yes,0,149.78,,No,Chiller,No,Omega Juice
+AUD00320,2026-02-10,S003,D-Mart,Hypermarket,Mumbai,West,Rohit Kumar,Delta Energy,Delta Energy Sugar-free 250ml,SKU4481,Sugar-free,250,4,26,15.4,Eye,2,Yes,0,198.25,,No,Shelf,Yes,Omega Juice
+AUD00321,2026-03-04,S006,Local Kirana 12,Kirana,Patna,East,Rohit Kumar,Alpha Cola,Alpha Cola Zero 2000ml,SKU2867,Zero,2000,16,52,30.8,Middle,5,Yes,0,186.98,,No,End-cap,Yes,Kappa Energy
+AUD00322,2026-09-21,S006,Local Kirana 12,Kirana,Patna,East,Meera Das,Gamma Water,Gamma Water Sparkling 1000ml,SKU3253,Sparkling,1000,6,25,24.0,Middle,2,Yes,0,105.5,86.27,Yes,Chiller,Yes,Sigma Water
+AUD00323,2026-08-06,S004,More,Supermarket,Kolkata,East,Meera Das,Delta Energy,Delta Energy Classic 250ml,SKU1954,Classic,250,10,32,31.2,Eye,7,Yes,0,114.44,90.86,Yes,Floor stack,No,Zeta Cola
+AUD00324,2026-09-05,S008,Easyday,Convenience,Lucknow,North,Vikram Singh,Delta Energy,Delta Energy Classic 250ml,SKU9348,Classic,250,7,24,29.2,Middle,5,Yes,0,60.63,,No,End-cap,No,Zeta Cola
+AUD00325,2026-04-22,S003,D-Mart,Hypermarket,Mumbai,West,Rohit Kumar,Gamma Water,Gamma Water Sparkling 1000ml,SKU6238,Sparkling,1000,10,32,31.2,Top,6,Yes,0,207.94,,No,Chiller,No,Omega Juice
+AUD00326,2026-03-27,S001,Big Bazaar,Hypermarket,Patna,East,Anita Rao,Alpha Cola,Alpha Cola Original 250ml,SKU1258,Original,250,18,57,31.6,Top,8,Yes,0,80.56,,No,Shelf,No,Omega Juice
+AUD00327,2026-01-20,S003,D-Mart,Hypermarket,Mumbai,West,Anita Rao,Beta Juice,Beta Juice Orange 1000ml,SKU1828,Orange,1000,0,58,0,Top,5,No,11,106.32,,No,Floor stack,No,Zeta Cola
+AUD00328,2026-09-16,S004,More,Supermarket,Kolkata,East,Vikram Singh,Delta Energy,Delta Energy Sugar-free 250ml,SKU7256,Sugar-free,250,7,23,30.4,Bottom,7,Yes,0,90.43,,No,Chiller,Yes,Omega Juice
+AUD00329,2026-06-15,S005,Spencer's,Supermarket,Bengaluru,South,Meera Das,Gamma Water,Gamma Water Still 500ml,SKU9212,Still,500,0,39,0,Bottom,1,No,10,38.27,,No,Floor stack,No,Omega Juice
+AUD00330,2026-08-17,S003,D-Mart,Hypermarket,Mumbai,West,Vikram Singh,Gamma Water,Gamma Water Sparkling 2000ml,SKU4241,Sparkling,2000,4,45,8.9,Top,6,Yes,0,52.75,,No,Shelf,No,Sigma Water
+AUD00331,2026-01-28,S006,Local Kirana 12,Kirana,Patna,East,Meera Das,Alpha Cola,Alpha Cola Zero 1000ml,SKU5160,Zero,1000,11,44,25.0,Top,3,Yes,0,68.35,,No,End-cap,No,Zeta Cola
+AUD00332,2026-06-08,S007,Star Bazaar,Hypermarket,Chennai,South,Rohit Kumar,Delta Energy,Delta Energy Sugar-free 500ml,SKU7356,Sugar-free,500,3,32,9.4,Middle,3,Yes,0,57.21,,No,Shelf,Yes,Omega Juice
+AUD00333,2026-04-15,S003,D-Mart,Hypermarket,Mumbai,West,Anita Rao,Delta Energy,Delta Energy Classic 500ml,SKU2669,Classic,500,17,52,32.7,Bottom,4,Yes,0,19.1,,No,Floor stack,Yes,Omega Juice
+AUD00334,2026-02-02,S006,Local Kirana 12,Kirana,Patna,East,Anita Rao,Gamma Water,Gamma Water Still 1000ml,SKU4234,Still,1000,7,24,29.2,Top,4,Yes,0,90.22,69.18,Yes,Floor stack,Yes,Sigma Water
+AUD00335,2026-07-04,S008,Easyday,Convenience,Lucknow,North,Vikram Singh,Beta Juice,Beta Juice Orange 200ml,SKU1135,Orange,200,9,39,23.1,Eye,6,Yes,0,74.45,,No,Shelf,No,Kappa Energy
+AUD00336,2026-07-08,S001,Big Bazaar,Hypermarket,Patna,East,Meera Das,Beta Juice,Beta Juice Mango 1000ml,SKU7847,Mango,1000,4,22,18.2,Eye,8,Yes,0,115.88,,No,Chiller,No,Sigma Water
+AUD00337,2026-09-17,S003,D-Mart,Hypermarket,Mumbai,West,Anita Rao,Delta Energy,Delta Energy Sugar-free 250ml,SKU2308,Sugar-free,250,6,23,26.1,Middle,7,Yes,0,248.44,,No,Shelf,Yes,Sigma Water
+AUD00338,2026-03-21,S008,Easyday,Convenience,Lucknow,North,Rohit Kumar,Beta Juice,Beta Juice Mango 1000ml,SKU1042,Mango,1000,6,28,21.4,Middle,1,Yes,0,170.71,,No,Chiller,No,Sigma Water
+AUD00339,2026-09-23,S004,More,Supermarket,Kolkata,East,Vikram Singh,Gamma Water,Gamma Water Still 500ml,SKU2893,Still,500,0,23,0,Eye,2,No,5,25.55,19.29,Yes,Floor stack,Yes,Kappa Energy
+AUD00340,2026-04-13,S007,Star Bazaar,Hypermarket,Chennai,South,Vikram Singh,Alpha Cola,Alpha Cola Original 2000ml,SKU6271,Original,2000,9,39,23.1,Bottom,7,Yes,0,108.86,,No,Chiller,No,Zeta Cola
+AUD00341,2026-10-17,S001,Big Bazaar,Hypermarket,Patna,East,Vikram Singh,Delta Energy,Delta Energy Sugar-free 250ml,SKU7969,Sugar-free,250,9,29,31.0,Top,5,Yes,0,164.34,,No,End-cap,Yes,Zeta Cola
+AUD00342,2026-02-13,S007,Star Bazaar,Hypermarket,Chennai,South,Meera Das,Alpha Cola,Alpha Cola Original 2000ml,SKU9292,Original,2000,11,39,28.2,Eye,7,Yes,0,201.9,166.13,Yes,Chiller,Yes,Zeta Cola
+AUD00343,2026-02-05,S001,Big Bazaar,Hypermarket,Patna,East,Meera Das,Beta Juice,Beta Juice Apple 200ml,SKU7829,Apple,200,4,60,6.7,Bottom,5,Yes,0,150.43,,No,End-cap,No,Zeta Cola
+AUD00344,2026-05-22,S002,Reliance Fresh,Supermarket,Delhi,North,Rohit Kumar,Delta Energy,Delta Energy Sugar-free 250ml,SKU5741,Sugar-free,250,3,27,11.1,Top,7,Yes,0,155.18,117.05,Yes,Chiller,No,Sigma Water
+AUD00345,2026-05-24,S005,Spencer's,Supermarket,Bengaluru,South,Meera Das,Alpha Cola,Alpha Cola Original 2000ml,SKU7125,Original,2000,5,41,12.2,Top,7,Yes,0,92.57,,No,Floor stack,Yes,Kappa Energy
+AUD00346,2026-03-12,S008,Easyday,Convenience,Lucknow,North,Meera Das,Gamma Water,Gamma Water Still 500ml,SKU4178,Still,500,6,55,10.9,Bottom,8,Yes,0,151.72,119.07,Yes,Shelf,No,Zeta Cola
+AUD00347,2026-09-24,S003,D-Mart,Hypermarket,Mumbai,West,Meera Das,Delta Energy,Delta Energy Sugar-free 250ml,SKU7592,Sugar-free,250,8,32,25.0,Bottom,7,Yes,0,119.08,,No,End-cap,No,Omega Juice
+AUD00348,2026-05-26,S006,Local Kirana 12,Kirana,Patna,East,Rohit Kumar,Delta Energy,Delta Energy Classic 250ml,SKU8787,Classic,250,3,35,8.6,Middle,5,Yes,0,244.95,,No,Floor stack,Yes,Omega Juice
+AUD00349,2026-09-08,S003,D-Mart,Hypermarket,Mumbai,West,Meera Das,Alpha Cola,Alpha Cola Original 500ml,SKU5728,Original,500,7,50,14.0,Middle,2,Yes,0,143.53,115.33,Yes,Chiller,Yes,Kappa Energy
+AUD00350,2026-04-13,S004,More,Supermarket,Kolkata,East,Meera Das,Delta Energy,Delta Energy Sugar-free 250ml,SKU4940,Sugar-free,250,15,48,31.2,Eye,2,Yes,0,207.66,174.93,Yes,Chiller,Yes,Omega Juice
+AUD00351,2026-10-01,S008,Easyday,Convenience,Lucknow,North,Rohit Kumar,Gamma Water,Gamma Water Still 500ml,SKU3399,Still,500,11,43,25.6,Bottom,3,Yes,0,232.24,215.75,Yes,Chiller,No,Sigma Water
+AUD00352,2026-10-22,S007,Star Bazaar,Hypermarket,Chennai,South,Meera Das,Beta Juice,Beta Juice Mango 200ml,SKU1776,Mango,200,12,56,21.4,Middle,2,Yes,0,240.87,,No,Shelf,No,Sigma Water
+AUD00353,2026-02-23,S005,Spencer's,Supermarket,Bengaluru,South,Vikram Singh,Gamma Water,Gamma Water Sparkling 2000ml,SKU2857,Sparkling,2000,9,48,18.8,Top,3,Yes,0,201.11,,No,End-cap,Yes,Omega Juice
+AUD00354,2026-01-06,S008,Easyday,Convenience,Lucknow,North,Rohit Kumar,Gamma Water,Gamma Water Still 1000ml,SKU2245,Still,1000,9,48,18.8,Eye,8,Yes,0,169.77,128.38,Yes,Chiller,No,Zeta Cola
+AUD00355,2026-07-02,S007,Star Bazaar,Hypermarket,Chennai,South,Anita Rao,Beta Juice,Beta Juice Mango 200ml,SKU6292,Mango,200,15,57,26.3,Eye,7,Yes,0,89.69,,No,End-cap,Yes,Sigma Water
+AUD00356,2026-02-19,S001,Big Bazaar,Hypermarket,Patna,East,Rohit Kumar,Alpha Cola,Alpha Cola Original 250ml,SKU6170,Original,250,15,47,31.9,Eye,7,Yes,0,185.94,,No,Floor stack,No,Zeta Cola
+AUD00357,2026-09-20,S008,Easyday,Convenience,Lucknow,North,Anita Rao,Delta Energy,Delta Energy Classic 500ml,SKU2897,Classic,500,5,26,19.2,Bottom,5,Yes,0,137.02,,No,Shelf,No,Sigma Water
+AUD00358,2026-10-02,S001,Big Bazaar,Hypermarket,Patna,East,Meera Das,Delta Energy,Delta Energy Classic 500ml,SKU6028,Classic,500,16,56,28.6,Top,7,Yes,0,87.51,,No,Shelf,No,Kappa Energy
+AUD00359,2026-01-25,S003,D-Mart,Hypermarket,Mumbai,West,Vikram Singh,Delta Energy,Delta Energy Sugar-free 250ml,SKU1506,Sugar-free,250,0,38,0,Top,5,No,4,93.49,,No,Chiller,Yes,Sigma Water
+AUD00360,2026-09-25,S003,D-Mart,Hypermarket,Mumbai,West,Meera Das,Alpha Cola,Alpha Cola Original 2000ml,SKU7073,Original,2000,14,53,26.4,Eye,5,Yes,0,52.62,,No,Chiller,Yes,Zeta Cola
+AUD00361,2026-09-23,S003,D-Mart,Hypermarket,Mumbai,West,Anita Rao,Alpha Cola,Alpha Cola Zero 250ml,SKU2995,Zero,250,0,40,0,Bottom,3,No,8,108.04,,No,Shelf,Yes,Omega Juice
+AUD00362,2026-09-27,S005,Spencer's,Supermarket,Bengaluru,South,Meera Das,Beta Juice,Beta Juice Mango 200ml,SKU3119,Mango,200,3,36,8.3,Top,6,Yes,0,59.57,,No,Chiller,Yes,Kappa Energy
+AUD00363,2026-02-07,S005,Spencer's,Supermarket,Bengaluru,South,Meera Das,Gamma Water,Gamma Water Still 500ml,SKU1103,Still,500,13,59,22.0,Middle,6,Yes,0,74.36,,No,Shelf,No,Kappa Energy
+AUD00364,2026-01-03,S003,D-Mart,Hypermarket,Mumbai,West,Rohit Kumar,Delta Energy,Delta Energy Classic 250ml,SKU2367,Classic,250,8,42,19.0,Top,4,Yes,0,54.66,45.96,Yes,Shelf,No,Kappa Energy
+AUD00365,2026-08-18,S002,Reliance Fresh,Supermarket,Delhi,North,Meera Das,Alpha Cola,Alpha Cola Zero 1000ml,SKU3084,Zero,1000,5,32,15.6,Bottom,2,Yes,0,121.73,,No,Floor stack,No,Sigma Water
+AUD00366,2026-08-10,S005,Spencer's,Supermarket,Bengaluru,South,Rohit Kumar,Alpha Cola,Alpha Cola Original 2000ml,SKU2467,Original,2000,9,40,22.5,Eye,8,Yes,0,226.68,,No,Shelf,No,Kappa Energy
+AUD00367,2026-07-07,S005,Spencer's,Supermarket,Bengaluru,South,Anita Rao,Delta Energy,Delta Energy Sugar-free 500ml,SKU8883,Sugar-free,500,3,26,11.5,Bottom,6,Yes,0,203.27,167.74,Yes,Shelf,Yes,Kappa Energy
+AUD00368,2026-10-16,S003,D-Mart,Hypermarket,Mumbai,West,Vikram Singh,Gamma Water,Gamma Water Sparkling 2000ml,SKU3838,Sparkling,2000,6,28,21.4,Middle,1,Yes,0,218.46,181.9,Yes,Shelf,No,Kappa Energy
+AUD00369,2026-02-03,S006,Local Kirana 12,Kirana,Patna,East,Vikram Singh,Beta Juice,Beta Juice Orange 200ml,SKU6081,Orange,200,8,49,16.3,Bottom,4,Yes,0,185.99,,No,Chiller,No,Kappa Energy
+AUD00370,2026-07-22,S007,Star Bazaar,Hypermarket,Chennai,South,Meera Das,Gamma Water,Gamma Water Sparkling 500ml,SKU7850,Sparkling,500,3,34,8.8,Top,4,Yes,0,43.14,,No,Chiller,No,Sigma Water
+AUD00371,2026-01-27,S007,Star Bazaar,Hypermarket,Chennai,South,Vikram Singh,Gamma Water,Gamma Water Sparkling 2000ml,SKU1922,Sparkling,2000,2,48,4.2,Middle,5,Yes,0,152.95,138.65,Yes,End-cap,Yes,Kappa Energy
+AUD00372,2026-07-05,S005,Spencer's,Supermarket,Bengaluru,South,Meera Das,Delta Energy,Delta Energy Sugar-free 250ml,SKU6922,Sugar-free,250,0,22,0,Eye,3,No,9,178.55,,No,Floor stack,No,Omega Juice
+AUD00373,2026-06-15,S002,Reliance Fresh,Supermarket,Delhi,North,Vikram Singh,Alpha Cola,Alpha Cola Original 2000ml,SKU5374,Original,2000,2,40,5.0,Top,8,Yes,0,113.74,,No,End-cap,Yes,Kappa Energy
+AUD00374,2026-09-08,S006,Local Kirana 12,Kirana,Patna,East,Anita Rao,Beta Juice,Beta Juice Apple 1000ml,SKU6479,Apple,1000,4,55,7.3,Bottom,4,Yes,0,253.57,,No,Floor stack,Yes,Zeta Cola
+AUD00375,2026-06-18,S008,Easyday,Convenience,Lucknow,North,Rohit Kumar,Delta Energy,Delta Energy Sugar-free 500ml,SKU6834,Sugar-free,500,9,51,17.6,Bottom,2,Yes,0,69.0,65.36,Yes,Shelf,Yes,Kappa Energy
+AUD00376,2026-04-11,S006,Local Kirana 12,Kirana,Patna,East,Rohit Kumar,Delta Energy,Delta Energy Classic 500ml,SKU1009,Classic,500,8,55,14.5,Middle,5,Yes,0,23.97,,No,End-cap,No,Omega Juice
+AUD00377,2026-04-19,S005,Spencer's,Supermarket,Bengaluru,South,Vikram Singh,Delta Energy,Delta Energy Classic 250ml,SKU3833,Classic,250,8,39,20.5,Bottom,5,Yes,0,38.5,,No,Shelf,No,Omega Juice
+AUD00378,2026-09-11,S002,Reliance Fresh,Supermarket,Delhi,North,Meera Das,Gamma Water,Gamma Water Sparkling 2000ml,SKU1215,Sparkling,2000,6,46,13.0,Top,6,Yes,0,126.48,,No,End-cap,No,Omega Juice
+AUD00379,2026-04-12,S007,Star Bazaar,Hypermarket,Chennai,South,Anita Rao,Gamma Water,Gamma Water Sparkling 500ml,SKU7016,Sparkling,500,0,39,0,Middle,2,No,9,235.42,185.03,Yes,Floor stack,Yes,Kappa Energy
+AUD00380,2026-09-06,S008,Easyday,Convenience,Lucknow,North,Rohit Kumar,Gamma Water,Gamma Water Sparkling 2000ml,SKU9172,Sparkling,2000,3,53,5.7,Middle,3,Yes,0,239.91,,No,End-cap,No,Zeta Cola
+AUD00381,2026-06-28,S004,More,Supermarket,Kolkata,East,Rohit Kumar,Beta Juice,Beta Juice Mango 200ml,SKU7118,Mango,200,10,32,31.2,Eye,4,Yes,0,146.22,,No,End-cap,No,Kappa Energy
+AUD00382,2026-09-06,S004,More,Supermarket,Kolkata,East,Anita Rao,Alpha Cola,Alpha Cola Lime 1000ml,SKU9468,Lime,1000,2,22,9.1,Top,7,Yes,0,43.84,33.99,Yes,End-cap,No,Kappa Energy
+AUD00383,2026-04-18,S002,Reliance Fresh,Supermarket,Delhi,North,Anita Rao,Delta Energy,Delta Energy Sugar-free 500ml,SKU8543,Sugar-free,500,0,33,0,Top,2,No,6,135.4,,No,End-cap,Yes,Omega Juice
+AUD00384,2026-08-16,S006,Local Kirana 12,Kirana,Patna,East,Meera Das,Gamma Water,Gamma Water Still 1000ml,SKU6614,Still,1000,8,26,30.8,Middle,1,Yes,0,87.78,,No,End-cap,No,Omega Juice
+AUD00385,2026-01-20,S002,Reliance Fresh,Supermarket,Delhi,North,Vikram Singh,Beta Juice,Beta Juice Orange 1000ml,SKU1258,Orange,1000,3,32,9.4,Bottom,8,Yes,0,35.2,,No,Floor stack,No,Zeta Cola
+AUD00386,2026-03-01,S007,Star Bazaar,Hypermarket,Chennai,South,Meera Das,Gamma Water,Gamma Water Still 1000ml,SKU3149,Still,1000,9,28,32.1,Bottom,7,Yes,0,196.24,161.38,Yes,Shelf,No,Kappa Energy
+AUD00387,2026-09-13,S001,Big Bazaar,Hypermarket,Patna,East,Vikram Singh,Alpha Cola,Alpha Cola Zero 250ml,SKU9250,Zero,250,0,45,0,Bottom,5,No,5,203.92,156.41,Yes,Shelf,No,Sigma Water
+AUD00388,2026-01-14,S002,Reliance Fresh,Supermarket,Delhi,North,Vikram Singh,Beta Juice,Beta Juice Apple 200ml,SKU1567,Apple,200,0,28,0,Eye,8,No,8,71.68,66.23,Yes,End-cap,No,Sigma Water
+AUD00389,2026-06-04,S004,More,Supermarket,Kolkata,East,Vikram Singh,Beta Juice,Beta Juice Apple 1000ml,SKU8223,Apple,1000,0,50,0,Eye,2,No,12,151.12,135.94,Yes,Floor stack,Yes,Zeta Cola
+AUD00390,2026-07-08,S005,Spencer's,Supermarket,Bengaluru,South,Meera Das,Alpha Cola,Alpha Cola Zero 2000ml,SKU9475,Zero,2000,0,56,0,Bottom,3,No,7,119.34,,No,Floor stack,No,Sigma Water
+AUD00391,2026-01-08,S002,Reliance Fresh,Supermarket,Delhi,North,Anita Rao,Delta Energy,Delta Energy Classic 500ml,SKU3479,Classic,500,8,27,29.6,Eye,5,Yes,0,57.87,53.47,Yes,Floor stack,Yes,Omega Juice
+AUD00392,2026-06-04,S004,More,Supermarket,Kolkata,East,Meera Das,Delta Energy,Delta Energy Sugar-free 500ml,SKU8524,Sugar-free,500,0,48,0,Top,1,No,7,60.62,,No,End-cap,Yes,Kappa Energy
+AUD00393,2026-02-19,S008,Easyday,Convenience,Lucknow,North,Vikram Singh,Beta Juice,Beta Juice Mango 200ml,SKU8201,Mango,200,8,46,17.4,Middle,4,Yes,0,242.52,,No,Floor stack,Yes,Kappa Energy
+AUD00394,2026-09-11,S003,D-Mart,Hypermarket,Mumbai,West,Anita Rao,Gamma Water,Gamma Water Still 1000ml,SKU8338,Still,1000,0,58,0,Eye,6,No,9,115.55,,No,End-cap,Yes,Sigma Water
+AUD00395,2026-08-07,S003,D-Mart,Hypermarket,Mumbai,West,Vikram Singh,Gamma Water,Gamma Water Sparkling 2000ml,SKU4151,Sparkling,2000,9,37,24.3,Bottom,3,Yes,0,53.23,49.25,Yes,Floor stack,Yes,Kappa Energy
+AUD00396,2026-05-06,S005,Spencer's,Supermarket,Bengaluru,South,Meera Das,Delta Energy,Delta Energy Sugar-free 500ml,SKU4389,Sugar-free,500,7,29,24.1,Bottom,5,Yes,0,119.25,,No,End-cap,Yes,Sigma Water
+AUD00397,2026-07-06,S008,Easyday,Convenience,Lucknow,North,Anita Rao,Beta Juice,Beta Juice Mango 200ml,SKU5258,Mango,200,12,41,29.3,Eye,4,Yes,0,79.97,,No,Shelf,No,Kappa Energy
+AUD00398,2026-10-21,S006,Local Kirana 12,Kirana,Patna,East,Anita Rao,Beta Juice,Beta Juice Orange 1000ml,SKU1729,Orange,1000,12,42,28.6,Eye,3,Yes,0,208.19,,No,Floor stack,Yes,Kappa Energy
+AUD00399,2026-02-13,S004,More,Supermarket,Kolkata,East,Meera Das,Beta Juice,Beta Juice Orange 1000ml,SKU5867,Orange,1000,2,49,4.1,Eye,4,Yes,0,89.8,,No,Floor stack,No,Sigma Water
+AUD00400,2026-06-09,S005,Spencer's,Supermarket,Bengaluru,South,Vikram Singh,Alpha Cola,Alpha Cola Original 250ml,SKU3696,Original,250,6,25,24.0,Middle,3,Yes,0,155.73,,No,Shelf,Yes,Zeta Cola
+AUD00401,2026-02-01,S004,More,Supermarket,Kolkata,East,Meera Das,Gamma Water,Gamma Water Sparkling 500ml,SKU3344,Sparkling,500,15,55,27.3,Eye,1,Yes,0,129.74,117.59,Yes,End-cap,No,Sigma Water
+AUD00402,2026-07-06,S002,Reliance Fresh,Supermarket,Delhi,North,Vikram Singh,Beta Juice,Beta Juice Orange 200ml,SKU5964,Orange,200,11,54,20.4,Bottom,3,Yes,0,47.78,41.1,Yes,End-cap,No,Sigma Water
+AUD00403,2026-02-19,S002,Reliance Fresh,Supermarket,Delhi,North,Meera Das,Gamma Water,Gamma Water Sparkling 2000ml,SKU2596,Sparkling,2000,8,26,30.8,Top,6,Yes,0,150.75,,No,Floor stack,No,Zeta Cola
+AUD00404,2026-02-12,S002,Reliance Fresh,Supermarket,Delhi,North,Meera Das,Alpha Cola,Alpha Cola Original 2000ml,SKU6624,Original,2000,0,36,0,Top,8,No,8,198.33,174.63,Yes,Shelf,No,Sigma Water
+AUD00405,2026-06-25,S006,Local Kirana 12,Kirana,Patna,East,Meera Das,Alpha Cola,Alpha Cola Lime 1000ml,SKU8363,Lime,1000,4,23,17.4,Middle,3,Yes,0,145.0,,No,Shelf,No,Zeta Cola
+AUD00406,2026-09-18,S004,More,Supermarket,Kolkata,East,Anita Rao,Delta Energy,Delta Energy Classic 250ml,SKU3184,Classic,250,11,53,20.8,Top,2,Yes,0,147.18,,No,End-cap,No,Zeta Cola
+AUD00407,2026-09-28,S004,More,Supermarket,Kolkata,East,Rohit Kumar,Alpha Cola,Alpha Cola Original 250ml,SKU8846,Original,250,4,35,11.4,Middle,1,Yes,0,230.63,217.28,Yes,End-cap,No,Sigma Water
+AUD00408,2026-06-21,S008,Easyday,Convenience,Lucknow,North,Anita Rao,Alpha Cola,Alpha Cola Zero 2000ml,SKU9018,Zero,2000,0,28,0,Top,1,No,6,161.88,,No,Chiller,No,Sigma Water
+AUD00409,2026-08-21,S001,Big Bazaar,Hypermarket,Patna,East,Anita Rao,Delta Energy,Delta Energy Classic 250ml,SKU8286,Classic,250,0,50,0,Bottom,5,No,9,113.06,98.42,Yes,Floor stack,No,Omega Juice
+AUD00410,2026-04-08,S007,Star Bazaar,Hypermarket,Chennai,South,Vikram Singh,Alpha Cola,Alpha Cola Zero 250ml,SKU4936,Zero,250,13,52,25.0,Top,6,Yes,0,147.85,,No,Shelf,No,Sigma Water
+AUD00411,2026-10-23,S005,Spencer's,Supermarket,Bengaluru,South,Vikram Singh,Alpha Cola,Alpha Cola Original 2000ml,SKU8718,Original,2000,12,39,30.8,Bottom,8,Yes,0,110.46,,No,Floor stack,No,Zeta Cola
+AUD00412,2026-08-28,S002,Reliance Fresh,Supermarket,Delhi,North,Vikram Singh,Delta Energy,Delta Energy Sugar-free 250ml,SKU4784,Sugar-free,250,18,60,30.0,Middle,6,Yes,0,224.13,,No,Shelf,No,Zeta Cola
+AUD00413,2026-03-06,S006,Local Kirana 12,Kirana,Patna,East,Anita Rao,Gamma Water,Gamma Water Sparkling 2000ml,SKU2032,Sparkling,2000,7,27,25.9,Bottom,6,Yes,0,190.81,,No,End-cap,Yes,Zeta Cola
+AUD00414,2026-09-21,S006,Local Kirana 12,Kirana,Patna,East,Meera Das,Beta Juice,Beta Juice Orange 1000ml,SKU2194,Orange,1000,6,41,14.6,Bottom,5,Yes,0,33.38,,No,Shelf,No,Kappa Energy
+AUD00415,2026-08-04,S001,Big Bazaar,Hypermarket,Patna,East,Meera Das,Gamma Water,Gamma Water Sparkling 500ml,SKU2171,Sparkling,500,2,43,4.7,Middle,6,Yes,0,72.97,,No,Shelf,Yes,Zeta Cola
+AUD00416,2026-08-22,S008,Easyday,Convenience,Lucknow,North,Meera Das,Delta Energy,Delta Energy Classic 250ml,SKU7699,Classic,250,10,54,18.5,Top,2,Yes,0,98.33,,No,Shelf,Yes,Omega Juice
+AUD00417,2026-02-27,S008,Easyday,Convenience,Lucknow,North,Vikram Singh,Gamma Water,Gamma Water Still 1000ml,SKU3097,Still,1000,15,46,32.6,Middle,8,Yes,0,120.11,109.48,Yes,End-cap,Yes,Zeta Cola
+AUD00418,2026-04-03,S006,Local Kirana 12,Kirana,Patna,East,Vikram Singh,Gamma Water,Gamma Water Still 500ml,SKU2763,Still,500,6,47,12.8,Top,4,Yes,0,159.05,,No,Shelf,No,Zeta Cola
+AUD00419,2026-08-06,S006,Local Kirana 12,Kirana,Patna,East,Anita Rao,Delta Energy,Delta Energy Sugar-free 500ml,SKU2584,Sugar-free,500,8,30,26.7,Bottom,8,Yes,0,53.59,,No,Shelf,Yes,Omega Juice
+AUD00420,2026-08-06,S006,Local Kirana 12,Kirana,Patna,East,Rohit Kumar,Beta Juice,Beta Juice Mango 1000ml,SKU5715,Mango,1000,9,50,18.0,Eye,3,Yes,0,48.52,,No,Floor stack,No,Omega Juice
+AUD00421,2026-04-08,S004,More,Supermarket,Kolkata,East,Meera Das,Beta Juice,Beta Juice Orange 1000ml,SKU6424,Orange,1000,17,52,32.7,Eye,2,Yes,0,174.79,,No,Floor stack,Yes,Kappa Energy
+AUD00422,2026-09-21,S003,D-Mart,Hypermarket,Mumbai,West,Vikram Singh,Delta Energy,Delta Energy Sugar-free 250ml,SKU4314,Sugar-free,250,3,45,6.7,Middle,7,Yes,0,142.72,116.33,Yes,End-cap,No,Omega Juice
+AUD00423,2026-05-01,S005,Spencer's,Supermarket,Bengaluru,South,Anita Rao,Beta Juice,Beta Juice Mango 200ml,SKU1402,Mango,200,13,40,32.5,Bottom,7,Yes,0,137.65,123.78,Yes,Floor stack,Yes,Kappa Energy
+AUD00424,2026-01-10,S003,D-Mart,Hypermarket,Mumbai,West,Meera Das,Alpha Cola,Alpha Cola Original 2000ml,SKU6716,Original,2000,11,40,27.5,Eye,2,Yes,0,240.61,,No,Shelf,No,Zeta Cola
+AUD00425,2026-09-27,S007,Star Bazaar,Hypermarket,Chennai,South,Vikram Singh,Alpha Cola,Alpha Cola Lime 2000ml,SKU7483,Lime,2000,8,25,32.0,Top,2,Yes,0,80.88,,No,Floor stack,Yes,Kappa Energy
+AUD00426,2026-01-12,S003,D-Mart,Hypermarket,Mumbai,West,Rohit Kumar,Alpha Cola,Alpha Cola Original 500ml,SKU3098,Original,500,5,34,14.7,Bottom,4,Yes,0,259.47,,No,Floor stack,Yes,Omega Juice
+AUD00427,2026-04-14,S006,Local Kirana 12,Kirana,Patna,East,Rohit Kumar,Delta Energy,Delta Energy Classic 500ml,SKU2258,Classic,500,0,34,0,Eye,2,No,2,98.01,,No,Floor stack,Yes,Kappa Energy
+AUD00428,2026-04-20,S001,Big Bazaar,Hypermarket,Patna,East,Rohit Kumar,Alpha Cola,Alpha Cola Lime 250ml,SKU7467,Lime,250,2,33,6.1,Top,5,Yes,0,217.33,,No,Floor stack,Yes,Sigma Water
+AUD00429,2026-08-10,S008,Easyday,Convenience,Lucknow,North,Meera Das,Beta Juice,Beta Juice Orange 1000ml,SKU1010,Orange,1000,0,52,0,Top,2,No,2,89.05,,No,End-cap,Yes,Zeta Cola
+AUD00430,2026-05-22,S003,D-Mart,Hypermarket,Mumbai,West,Vikram Singh,Delta Energy,Delta Energy Classic 250ml,SKU6312,Classic,250,10,54,18.5,Top,7,Yes,0,215.72,,No,Floor stack,No,Sigma Water
+AUD00431,2026-08-15,S006,Local Kirana 12,Kirana,Patna,East,Vikram Singh,Beta Juice,Beta Juice Mango 1000ml,SKU8932,Mango,1000,17,58,29.3,Top,2,Yes,0,174.34,163.63,Yes,Chiller,Yes,Zeta Cola
+AUD00432,2026-10-28,S006,Local Kirana 12,Kirana,Patna,East,Meera Das,Beta Juice,Beta Juice Apple 200ml,SKU2245,Apple,200,14,60,23.3,Eye,3,Yes,0,176.18,147.79,Yes,Shelf,Yes,Kappa Energy
+AUD00433,2026-02-14,S005,Spencer's,Supermarket,Bengaluru,South,Vikram Singh,Beta Juice,Beta Juice Orange 1000ml,SKU3666,Orange,1000,5,56,8.9,Top,5,Yes,0,72.25,,No,End-cap,Yes,Omega Juice
+AUD00434,2026-06-21,S008,Easyday,Convenience,Lucknow,North,Anita Rao,Beta Juice,Beta Juice Mango 200ml,SKU4588,Mango,200,4,31,12.9,Eye,1,Yes,0,129.9,,No,Shelf,Yes,Zeta Cola
+AUD00435,2026-10-14,S002,Reliance Fresh,Supermarket,Delhi,North,Vikram Singh,Gamma Water,Gamma Water Still 2000ml,SKU9825,Still,2000,10,46,21.7,Eye,5,Yes,0,106.67,,No,End-cap,Yes,Omega Juice
+AUD00436,2026-07-23,S007,Star Bazaar,Hypermarket,Chennai,South,Meera Das,Delta Energy,Delta Energy Classic 500ml,SKU5941,Classic,500,5,50,10.0,Bottom,5,Yes,0,32.66,,No,Chiller,Yes,Kappa Energy
+AUD00437,2026-08-03,S008,Easyday,Convenience,Lucknow,North,Anita Rao,Gamma Water,Gamma Water Still 2000ml,SKU3812,Still,2000,4,50,8.0,Bottom,8,Yes,0,90.53,85.47,Yes,Chiller,No,Sigma Water
+AUD00438,2026-06-11,S007,Star Bazaar,Hypermarket,Chennai,South,Rohit Kumar,Beta Juice,Beta Juice Orange 200ml,SKU9080,Orange,200,0,60,0,Eye,3,No,3,104.84,98.89,Yes,Floor stack,Yes,Kappa Energy
+AUD00439,2026-04-11,S006,Local Kirana 12,Kirana,Patna,East,Anita Rao,Delta Energy,Delta Energy Classic 500ml,SKU3340,Classic,500,18,57,31.6,Eye,5,Yes,0,172.27,,No,Floor stack,No,Kappa Energy
+AUD00440,2026-08-24,S005,Spencer's,Supermarket,Bengaluru,South,Anita Rao,Delta Energy,Delta Energy Sugar-free 250ml,SKU4446,Sugar-free,250,10,37,27.0,Bottom,2,Yes,0,69.55,65.94,Yes,Floor stack,Yes,Zeta Cola
+AUD00441,2026-03-16,S002,Reliance Fresh,Supermarket,Delhi,North,Vikram Singh,Gamma Water,Gamma Water Sparkling 500ml,SKU1816,Sparkling,500,3,50,6.0,Top,4,Yes,0,132.1,114.24,Yes,End-cap,Yes,Kappa Energy
+AUD00442,2026-10-10,S005,Spencer's,Supermarket,Bengaluru,South,Anita Rao,Delta Energy,Delta Energy Classic 250ml,SKU5774,Classic,250,6,45,13.3,Eye,5,Yes,0,193.01,178.41,Yes,End-cap,Yes,Omega Juice
+AUD00443,2026-01-11,S008,Easyday,Convenience,Lucknow,North,Rohit Kumar,Beta Juice,Beta Juice Orange 200ml,SKU2129,Orange,200,5,29,17.2,Top,7,Yes,0,146.69,,No,Floor stack,No,Omega Juice
+AUD00444,2026-08-11,S005,Spencer's,Supermarket,Bengaluru,South,Rohit Kumar,Alpha Cola,Alpha Cola Original 500ml,SKU3974,Original,500,8,52,15.4,Top,3,Yes,0,125.45,101.1,Yes,Chiller,Yes,Kappa Energy
+AUD00445,2026-06-03,S002,Reliance Fresh,Supermarket,Delhi,North,Anita Rao,Alpha Cola,Alpha Cola Original 2000ml,SKU7367,Original,2000,5,30,16.7,Middle,2,Yes,0,40.61,36.28,Yes,Shelf,Yes,Zeta Cola
+AUD00446,2026-04-09,S008,Easyday,Convenience,Lucknow,North,Anita Rao,Delta Energy,Delta Energy Sugar-free 250ml,SKU6448,Sugar-free,250,0,40,0,Middle,2,No,11,113.09,,No,Chiller,Yes,Kappa Energy
+AUD00447,2026-01-03,S002,Reliance Fresh,Supermarket,Delhi,North,Vikram Singh,Beta Juice,Beta Juice Mango 200ml,SKU5295,Mango,200,0,20,0,Middle,4,No,14,203.22,,No,Shelf,Yes,Sigma Water
+AUD00448,2026-04-06,S004,More,Supermarket,Kolkata,East,Anita Rao,Alpha Cola,Alpha Cola Original 500ml,SKU2302,Original,500,15,59,25.4,Eye,5,Yes,0,141.72,113.4,Yes,Chiller,No,Sigma Water
+AUD00449,2026-08-19,S008,Easyday,Convenience,Lucknow,North,Rohit Kumar,Alpha Cola,Alpha Cola Lime 500ml,SKU7928,Lime,500,6,24,25.0,Top,1,Yes,0,29.17,,No,Floor stack,No,Zeta Cola
+AUD00450,2026-02-10,S003,D-Mart,Hypermarket,Mumbai,West,Anita Rao,Alpha Cola,Alpha Cola Lime 1000ml,SKU5194,Lime,1000,10,40,25.0,Top,1,Yes,0,216.07,,No,End-cap,No,Kappa Energy
+AUD00451,2026-02-19,S004,More,Supermarket,Kolkata,East,Anita Rao,Gamma Water,Gamma Water Sparkling 1000ml,SKU1427,Sparkling,1000,6,28,21.4,Middle,6,Yes,0,244.85,213.85,Yes,Floor stack,No,Omega Juice
+AUD00452,2026-01-10,S007,Star Bazaar,Hypermarket,Chennai,South,Rohit Kumar,Gamma Water,Gamma Water Still 500ml,SKU8943,Still,500,11,49,22.4,Bottom,8,Yes,0,43.68,,No,Shelf,No,Sigma Water
+AUD00453,2026-01-17,S001,Big Bazaar,Hypermarket,Patna,East,Rohit Kumar,Delta Energy,Delta Energy Classic 500ml,SKU6858,Classic,500,2,45,4.4,Top,3,Yes,0,250.27,192.07,Yes,Shelf,No,Kappa Energy
+AUD00454,2026-02-22,S002,Reliance Fresh,Supermarket,Delhi,North,Anita Rao,Alpha Cola,Alpha Cola Original 2000ml,SKU9928,Original,2000,10,48,20.8,Top,4,Yes,0,162.47,144.81,Yes,Shelf,No,Kappa Energy
+AUD00455,2026-10-15,S007,Star Bazaar,Hypermarket,Chennai,South,Anita Rao,Gamma Water,Gamma Water Still 500ml,SKU6370,Still,500,0,57,0,Top,6,No,3,30.58,,No,Chiller,Yes,Omega Juice
+AUD00456,2026-09-24,S003,D-Mart,Hypermarket,Mumbai,West,Vikram Singh,Alpha Cola,Alpha Cola Original 2000ml,SKU9070,Original,2000,9,43,20.9,Middle,5,Yes,0,93.7,,No,Floor stack,Yes,Kappa Energy
+AUD00457,2026-05-16,S005,Spencer's,Supermarket,Bengaluru,South,Anita Rao,Delta Energy,Delta Energy Sugar-free 250ml,SKU5376,Sugar-free,250,4,30,13.3,Middle,2,Yes,0,104.03,,No,Shelf,Yes,Kappa Energy
+AUD00458,2026-03-03,S003,D-Mart,Hypermarket,Mumbai,West,Rohit Kumar,Gamma Water,Gamma Water Still 2000ml,SKU3111,Still,2000,15,59,25.4,Middle,5,Yes,0,177.86,,No,Shelf,No,Kappa Energy
+AUD00459,2026-06-06,S003,D-Mart,Hypermarket,Mumbai,West,Rohit Kumar,Delta Energy,Delta Energy Classic 500ml,SKU4967,Classic,500,2,44,4.5,Middle,8,Yes,0,139.67,127.23,Yes,End-cap,No,Sigma Water
+AUD00460,2026-05-16,S004,More,Supermarket,Kolkata,East,Rohit Kumar,Gamma Water,Gamma Water Still 1000ml,SKU9934,Still,1000,7,43,16.3,Bottom,2,Yes,0,202.11,,No,Shelf,No,Zeta Cola
+AUD00461,2026-06-09,S003,D-Mart,Hypermarket,Mumbai,West,Vikram Singh,Alpha Cola,Alpha Cola Zero 1000ml,SKU2709,Zero,1000,2,34,5.9,Eye,6,Yes,0,244.68,,No,Floor stack,Yes,Zeta Cola
+AUD00462,2026-04-13,S008,Easyday,Convenience,Lucknow,North,Rohit Kumar,Beta Juice,Beta Juice Orange 1000ml,SKU6085,Orange,1000,7,23,30.4,Middle,6,Yes,0,224.71,208.76,Yes,Floor stack,Yes,Zeta Cola
+AUD00463,2026-04-02,S002,Reliance Fresh,Supermarket,Delhi,North,Meera Das,Delta Energy,Delta Energy Classic 250ml,SKU9418,Classic,250,10,43,23.3,Top,3,Yes,0,253.46,228.61,Yes,Floor stack,Yes,Sigma Water
+AUD00464,2026-08-18,S004,More,Supermarket,Kolkata,East,Anita Rao,Delta Energy,Delta Energy Classic 500ml,SKU1861,Classic,500,4,24,16.7,Eye,8,Yes,0,196.98,160.65,Yes,Shelf,Yes,Sigma Water
+AUD00465,2026-09-23,S007,Star Bazaar,Hypermarket,Chennai,South,Rohit Kumar,Gamma Water,Gamma Water Still 2000ml,SKU3311,Still,2000,9,33,27.3,Top,3,Yes,0,215.65,,No,Shelf,No,Kappa Energy
+AUD00466,2026-02-25,S001,Big Bazaar,Hypermarket,Patna,East,Rohit Kumar,Alpha Cola,Alpha Cola Zero 500ml,SKU8130,Zero,500,7,22,31.8,Bottom,6,Yes,0,224.4,,No,Chiller,No,Zeta Cola
+AUD00467,2026-05-14,S004,More,Supermarket,Kolkata,East,Vikram Singh,Beta Juice,Beta Juice Apple 1000ml,SKU6201,Apple,1000,0,32,0,Eye,5,No,11,180.77,,No,Chiller,No,Sigma Water
+AUD00468,2026-06-06,S005,Spencer's,Supermarket,Bengaluru,South,Vikram Singh,Beta Juice,Beta Juice Orange 1000ml,SKU6584,Orange,1000,15,59,25.4,Top,4,Yes,0,87.47,,No,End-cap,Yes,Kappa Energy
+AUD00469,2026-02-28,S003,D-Mart,Hypermarket,Mumbai,West,Meera Das,Gamma Water,Gamma Water Still 500ml,SKU8792,Still,500,15,51,29.4,Middle,2,Yes,0,202.55,,No,Shelf,Yes,Kappa Energy
+AUD00470,2026-09-08,S002,Reliance Fresh,Supermarket,Delhi,North,Meera Das,Gamma Water,Gamma Water Sparkling 1000ml,SKU8468,Sparkling,1000,0,52,0,Top,7,No,1,226.43,208.6,Yes,End-cap,No,Sigma Water
+AUD00471,2026-02-09,S005,Spencer's,Supermarket,Bengaluru,South,Rohit Kumar,Gamma Water,Gamma Water Sparkling 500ml,SKU5816,Sparkling,500,0,47,0,Middle,1,No,14,149.28,114.18,Yes,End-cap,No,Zeta Cola
+AUD00472,2026-04-21,S002,Reliance Fresh,Supermarket,Delhi,North,Vikram Singh,Beta Juice,Beta Juice Orange 200ml,SKU1525,Orange,200,4,44,9.1,Eye,8,Yes,0,62.51,51.37,Yes,Chiller,No,Kappa Energy
+AUD00473,2026-07-20,S001,Big Bazaar,Hypermarket,Patna,East,Anita Rao,Delta Energy,Delta Energy Classic 500ml,SKU4280,Classic,500,0,57,0,Eye,3,No,12,245.28,,No,End-cap,Yes,Kappa Energy
+AUD00474,2026-08-28,S001,Big Bazaar,Hypermarket,Patna,East,Anita Rao,Beta Juice,Beta Juice Mango 200ml,SKU4505,Mango,200,15,55,27.3,Bottom,2,Yes,0,18.22,,No,End-cap,Yes,Kappa Energy
+AUD00475,2026-07-19,S002,Reliance Fresh,Supermarket,Delhi,North,Meera Das,Delta Energy,Delta Energy Classic 250ml,SKU8679,Classic,250,4,49,8.2,Eye,7,Yes,0,132.99,109.56,Yes,End-cap,No,Kappa Energy
+AUD00476,2026-08-13,S001,Big Bazaar,Hypermarket,Patna,East,Meera Das,Alpha Cola,Alpha Cola Original 1000ml,SKU8081,Original,1000,2,53,3.8,Top,1,Yes,0,220.74,,No,Shelf,Yes,Kappa Energy
+AUD00477,2026-07-26,S002,Reliance Fresh,Supermarket,Delhi,North,Anita Rao,Beta Juice,Beta Juice Mango 200ml,SKU6899,Mango,200,0,57,0,Eye,7,No,8,106.64,,No,End-cap,No,Omega Juice
+AUD00478,2026-10-06,S002,Reliance Fresh,Supermarket,Delhi,North,Meera Das,Delta Energy,Delta Energy Classic 500ml,SKU8649,Classic,500,0,42,0,Top,8,No,3,37.62,,No,Chiller,Yes,Omega Juice
+AUD00479,2026-08-14,S006,Local Kirana 12,Kirana,Patna,East,Rohit Kumar,Beta Juice,Beta Juice Orange 1000ml,SKU6926,Orange,1000,9,39,23.1,Bottom,1,Yes,0,117.81,93.4,Yes,Floor stack,No,Sigma Water
+AUD00480,2026-01-22,S003,D-Mart,Hypermarket,Mumbai,West,Meera Das,Beta Juice,Beta Juice Mango 200ml,SKU9373,Mango,200,7,33,21.2,Middle,3,Yes,0,223.55,,No,Floor stack,Yes,Kappa Energy
+AUD00481,2026-10-06,S004,More,Supermarket,Kolkata,East,Vikram Singh,Alpha Cola,Alpha Cola Original 250ml,SKU7748,Original,250,4,58,6.9,Top,2,Yes,0,124.11,,No,End-cap,Yes,Kappa Energy
+AUD00482,2026-07-09,S001,Big Bazaar,Hypermarket,Patna,East,Rohit Kumar,Gamma Water,Gamma Water Sparkling 2000ml,SKU2231,Sparkling,2000,2,55,3.6,Top,3,Yes,0,83.03,,No,Chiller,Yes,Zeta Cola
+AUD00483,2026-05-01,S006,Local Kirana 12,Kirana,Patna,East,Anita Rao,Gamma Water,Gamma Water Still 500ml,SKU4483,Still,500,0,32,0,Middle,6,No,2,201.69,171.65,Yes,End-cap,No,Kappa Energy
+AUD00484,2026-03-07,S002,Reliance Fresh,Supermarket,Delhi,North,Meera Das,Delta Energy,Delta Energy Classic 250ml,SKU3021,Classic,250,4,51,7.8,Top,4,Yes,0,153.42,,No,Floor stack,Yes,Sigma Water
+AUD00485,2026-07-19,S002,Reliance Fresh,Supermarket,Delhi,North,Meera Das,Gamma Water,Gamma Water Sparkling 500ml,SKU3296,Sparkling,500,6,43,14.0,Top,5,Yes,0,169.87,155.11,Yes,Shelf,Yes,Sigma Water
+AUD00486,2026-03-09,S002,Reliance Fresh,Supermarket,Delhi,North,Meera Das,Gamma Water,Gamma Water Still 1000ml,SKU8997,Still,1000,17,52,32.7,Top,3,Yes,0,204.58,,No,End-cap,No,Sigma Water
+AUD00487,2026-05-17,S001,Big Bazaar,Hypermarket,Patna,East,Rohit Kumar,Gamma Water,Gamma Water Sparkling 2000ml,SKU2190,Sparkling,2000,2,20,10.0,Top,8,Yes,0,250.4,,No,End-cap,No,Sigma Water
+AUD00488,2026-07-26,S002,Reliance Fresh,Supermarket,Delhi,North,Meera Das,Delta Energy,Delta Energy Classic 250ml,SKU3744,Classic,250,0,36,0,Bottom,8,No,9,147.3,125.44,Yes,End-cap,No,Kappa Energy
+AUD00489,2026-08-10,S003,D-Mart,Hypermarket,Mumbai,West,Rohit Kumar,Gamma Water,Gamma Water Sparkling 2000ml,SKU4370,Sparkling,2000,6,24,25.0,Middle,8,Yes,0,59.27,,No,Shelf,Yes,Sigma Water
+AUD00490,2026-07-12,S005,Spencer's,Supermarket,Bengaluru,South,Rohit Kumar,Delta Energy,Delta Energy Classic 250ml,SKU9921,Classic,250,11,39,28.2,Middle,1,Yes,0,227.69,175.79,Yes,Shelf,No,Kappa Energy
+AUD00491,2026-02-19,S002,Reliance Fresh,Supermarket,Delhi,North,Vikram Singh,Alpha Cola,Alpha Cola Original 500ml,SKU6568,Original,500,10,40,25.0,Top,3,Yes,0,192.94,178.05,Yes,Chiller,Yes,Omega Juice
+AUD00492,2026-03-12,S002,Reliance Fresh,Supermarket,Delhi,North,Meera Das,Beta Juice,Beta Juice Orange 200ml,SKU9880,Orange,200,0,20,0,Eye,7,No,9,125.21,118.35,Yes,Floor stack,No,Sigma Water
+AUD00493,2026-06-26,S007,Star Bazaar,Hypermarket,Chennai,South,Meera Das,Gamma Water,Gamma Water Still 500ml,SKU2025,Still,500,18,57,31.6,Eye,8,Yes,0,224.4,207.81,Yes,Chiller,No,Kappa Energy
+AUD00494,2026-04-05,S003,D-Mart,Hypermarket,Mumbai,West,Meera Das,Delta Energy,Delta Energy Sugar-free 500ml,SKU1269,Sugar-free,500,4,37,10.8,Middle,5,Yes,0,147.13,119.28,Yes,Shelf,Yes,Omega Juice
+AUD00495,2026-02-28,S001,Big Bazaar,Hypermarket,Patna,East,Anita Rao,Gamma Water,Gamma Water Sparkling 2000ml,SKU9069,Sparkling,2000,3,29,10.3,Top,5,Yes,0,241.18,186.21,Yes,Chiller,Yes,Kappa Energy
+AUD00496,2026-05-22,S001,Big Bazaar,Hypermarket,Patna,East,Rohit Kumar,Alpha Cola,Alpha Cola Zero 500ml,SKU4792,Zero,500,2,28,7.1,Bottom,8,Yes,0,118.9,,No,End-cap,No,Omega Juice
+AUD00497,2026-04-17,S001,Big Bazaar,Hypermarket,Patna,East,Vikram Singh,Gamma Water,Gamma Water Still 2000ml,SKU8499,Still,2000,17,58,29.3,Eye,7,Yes,0,150.15,128.25,Yes,End-cap,Yes,Zeta Cola
+AUD00498,2026-05-12,S008,Easyday,Convenience,Lucknow,North,Vikram Singh,Delta Energy,Delta Energy Classic 250ml,SKU9047,Classic,250,7,22,31.8,Middle,8,Yes,0,197.34,,No,End-cap,No,Sigma Water
+AUD00499,2026-03-16,S006,Local Kirana 12,Kirana,Patna,East,Rohit Kumar,Beta Juice,Beta Juice Apple 1000ml,SKU8185,Apple,1000,10,44,22.7,Middle,6,Yes,0,211.91,,No,Chiller,No,Kappa Energy
+AUD00500,2026-08-16,S006,Local Kirana 12,Kirana,Patna,East,Vikram Singh,Beta Juice,Beta Juice Orange 200ml,SKU7734,Orange,200,2,20,10.0,Top,4,Yes,0,98.36,80.03,Yes,Shelf,No,Sigma Water
